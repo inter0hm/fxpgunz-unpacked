@@ -1,0 +1,274 @@
+
+Modification events
+(PID) Process:
+(3456) wmpnscfg.exe
+Key:
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Media Player NSS\3.0\Events\{EBB71496-6828-4EF0-AF7B-DBA324CC6E41}\{0C716894-8E41-49A3-8110-1C3621F7BAB4}
+Operation:
+delete key
+Name:
+(default)
+Value:
+(PID) Process:
+(3456) wmpnscfg.exe
+Key:
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Media Player NSS\3.0\Events\{EBB71496-6828-4EF0-AF7B-DBA324CC6E41}
+Operation:
+delete key
+Name:
+(default)
+Value:
+(PID) Process:
+(3456) wmpnscfg.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\MediaPlayer\Health\{86897002-B53B-49B9-92F1-910CA3D85C6E}
+Operation:
+delete key
+Name:
+(default)
+Value:
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Direct3D\MostRecentApplication
+Operation:
+write
+Name:
+Name
+Value:
+Explorer.EXE
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap
+Operation:
+write
+Name:
+ProxyBypass
+Value:
+1
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap
+Operation:
+write
+Name:
+IntranetName
+Value:
+1
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap
+Operation:
+write
+Name:
+UNCAsIntranet
+Value:
+1
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap
+Operation:
+write
+Name:
+AutoDetect
+Value:
+0
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings
+Operation:
+write
+Name:
+ProxyEnable
+Value:
+0
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Connections
+Operation:
+write
+Name:
+SavedLegacySettings
+Value:
+4600000059010000090000000000000000000000000000000400000000000000C0E333BBEAB1D3010000000000000000000000000100000002000000C0A8016B000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Cookies
+Operation:
+write
+Name:
+CachePrefix
+Value:
+Cookie:
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\History
+Operation:
+write
+Name:
+CachePrefix
+Value:
+Visited:
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad\{FCC67766-6201-4AD1-A6B8-2F4553C93D47}
+Operation:
+write
+Name:
+WpadDecisionReason
+Value:
+1
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad\{FCC67766-6201-4AD1-A6B8-2F4553C93D47}
+Operation:
+write
+Name:
+WpadDecisionTime
+Value:
+14C3C770111CDA01
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad\{FCC67766-6201-4AD1-A6B8-2F4553C93D47}
+Operation:
+write
+Name:
+WpadDecision
+Value:
+0
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad\{FCC67766-6201-4AD1-A6B8-2F4553C93D47}
+Operation:
+write
+Name:
+WpadNetworkName
+Value:
+Network 3
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad\52-54-00-36-3e-ff
+Operation:
+write
+Name:
+WpadDecisionReason
+Value:
+1
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad\52-54-00-36-3e-ff
+Operation:
+write
+Name:
+WpadDecisionTime
+Value:
+14C3C770111CDA01
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad\52-54-00-36-3e-ff
+Operation:
+write
+Name:
+WpadDecision
+Value:
+0
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad\52-54-00-36-3e-ff
+Operation:
+write
+Name:
+WpadDecisionTime
+Value:
+6E25CA70111CDA01
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad\{FCC67766-6201-4AD1-A6B8-2F4553C93D47}
+Operation:
+write
+Name:
+WpadDecisionTime
+Value:
+6E25CA70111CDA01
+(PID) Process:
+(3612) FxpGunz Launcher.exe
+Key:
+HKEY_CLASSES_ROOT\Local Settings\MuiCache\17A\52C64B7E
+Operation:
+write
+Name:
+LanguageList
+Value:
+en-US
+(PID) Process:
+(3984) wisptis.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\Direct3D\MostRecentApplication
+Operation:
+write
+Name:
+Name
+Value:
+FxpGunz Launcher.exe
+(PID) Process:
+(3960) wmpnscfg.exe
+Key:
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Media Player NSS\3.0\Events\{A48D6BAA-D043-458B-9397-8C7DCC7224C1}\{2F60E9A7-99FE-4527-B36B-330DC53B1ED0}
+Operation:
+delete key
+Name:
+(default)
+Value:
+(PID) Process:
+(3960) wmpnscfg.exe
+Key:
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Media Player NSS\3.0\Events\{EBB71496-6828-4EF0-AF7B-DBA324CC6E41}\{2F60E9A7-99FE-4527-B36B-330DC53B1ED0}
+Operation:
+delete key
+Name:
+(default)
+Value:
+(PID) Process:
+(3960) wmpnscfg.exe
+Key:
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Media Player NSS\3.0\Events\{EBB71496-6828-4EF0-AF7B-DBA324CC6E41}
+Operation:
+delete key
+Name:
+(default)
+Value:
+(PID) Process:
+(3960) wmpnscfg.exe
+Key:
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Media Player NSS\3.0\Events\{A48D6BAA-D043-458B-9397-8C7DCC7224C1}
+Operation:
+delete key
+Name:
+(default)
+Value:
+(PID) Process:
+(3960) wmpnscfg.exe
+Key:
+HKEY_CURRENT_USER\Software\Microsoft\MediaPlayer\Health\{07660BBC-0229-4DB1-AEC6-A2D82ABA46D0}
+Operation:
+delete key
+Name:
+(default)
+Value:
