@@ -16,3 +16,18 @@
 "运行(&R)"
 "C:\Windows\system32\cmd.exe"
 "The invocation of the constructor on type 'ZLauncher.MainWindow' that matches the specified binding constraints threw an exception.\n\n at System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReade"**
+
+
+
+
+
+
+
+
+
+
+https://www.virustotal.com/gui/file/3c67b3fc77d4807aa3af755118f748aef373f878e602e1e49884ce96db128c77
+If we reverse search from b2956db62ea485273b10f8551682f4d681ab5f7dc68e35dd4934960355129269 
+
+
+
