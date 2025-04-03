@@ -26,7 +26,7 @@ i made him move to good provider which i regret but this is not a problem since 
 "运行(&R)"
 "C:\Windows\system32\cmd.exe"
 "The invocation of the constructor on type 'ZLauncher.MainWindow' that matches the specified binding constraints threw an exception.\n\n at System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReade"**```
-
+```
     old domain resolved from launcher and also ingame http://beer.consistdev.co.il/
 beer.consistdev.co.iz
 old server name : ragegunz
