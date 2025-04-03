@@ -2,6 +2,8 @@
 #The executable uses selfpolymorphism and metamorphism technique that uses system and features in an original softwares without changing it initial behavior.
     i removed vmprotect from various executable for investigation , i started noticing changes my finds removed after public disclosure , comparing the changes would be interesting
 
+Metamorphism : 
+
 Archive password : infected
 Main domain: fxpgunz.com
 old host provider before migration toward NL datacenter which i'm the one that recommended it after helping him dealing with a scam situation he did fall for.
@@ -27,6 +29,19 @@ i made him move to good provider which i regret but this is not a problem since 
 "C:\Windows\system32\cmd.exe"
 "The invocation of the constructor on type 'ZLauncher.MainWindow' that matches the specified binding constraints threw an exception.\n\n at System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReade"**```
 ```
+
+Deprecared version of dotnet that open door to multiple RCE and exploits
+outdated zlib vulnerable to toctou 
+```Stable/Utils/ReplayAnalysis/InfluenceMapMaker/zlib/contrib/puff/puff.c:804 
+    if ((s.st_mode & S_IFMT) != S_IFREG) return NULL;
+    size = (unsigned long)(s.st_size);
+    if (size == 0 || (off_t)size != s.st_size) return NULL;
+    in = fopen(name, "r");
+    if (in == NULL) return NULL;
+    buf = malloc(size);
+    if (buf != NULL && fread(buf, 1, size, in) != size) {```
+
+
     old domain resolved from launcher and also ingame http://beer.consistdev.co.il/
 beer.consistdev.co.iz
 old server name : ragegunz
