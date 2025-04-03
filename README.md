@@ -8,7 +8,24 @@ old host provider before migration toward NL datacenter which i'm the one that r
 sharp did google for "ddos protected host" clicked a random one. He had several issue setting the server up considering he barely know stuff about system administration and only what he was taught to write/program at idf, can buy or get his hands on from his friends he wasn't able to get the required information's from events viewer, netstat.
 the first thing i did was try to ensure the routing was properly done and from the arp -a command i notice hes been arp spoofed and still didn't know how to proceed , panicking. He could have done few research about the provider and a virustotal scan he would have quickly noticed lots of detections and redflag coming from  search engine result.
 i made him move to good provider which i regret but this is not a problem since his favicon resolve his back end and that he ran his server on a windows server without reducing the attack surface, sysloging , no siem .
-
+```
+"fxpgunz.com"
+"update.exe"
+"保存(&S)"
+"发行者:"
+"发送者:"
+"取消"
+"名称:"
+"应用程序, 358 KB"
+"您想运行或保存此文件吗?"
+"打开此类文件之前总是询问(&W)"
+"文件下载 - 安全警告"
+"来自 Internet 的文件可能对您有所帮助，但此文件类型可能危害您的计算机。如果您不信任其来源，请不要运行或保存该软件。<A>有何风险?</A>"
+"确定"
+"类型:"
+"运行(&R)"
+"C:\Windows\system32\cmd.exe"
+"The invocation of the constructor on type 'ZLauncher.MainWindow' that matches the specified binding constraints threw an exception.\n\n at System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReade"**```
 
     old domain resolved from launcher and also ingame http://beer.consistdev.co.il/
 beer.consistdev.co.iz
