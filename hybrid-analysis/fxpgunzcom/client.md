@@ -1,4 +1,4 @@
-Loads the debugger/analysis tool module
+```Loads the debugger/analysis tool module
 details "identity_helper.exe" loaded module "%WINDIR%\System32\dbghelp.dll" at 7DB90000
 source
 Loaded Module
@@ -227,3 +227,4 @@ SHA1
 119bdaf45908cedffe3540180f9994694b7c1e32 Copy SHA1 to clipboard
 SHA256
 d248eeef7ffe56130b6af42c72b03df6b414527000af6e1f1123ac771ef42653 
+```
