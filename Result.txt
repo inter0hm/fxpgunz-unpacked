@@ -1,0 +1,6 @@
+PE32
+    Operation system: Windows(Vista)[I386, 32-bit, GUI]
+    (Heur)Language: ASMx86
+    Library: Direct3D(9)
+    (Heur)Protection: Generic[Strange sections]
+    (Heur)Packer: Packer detected[High entropy + Section 5 (".797") compressed]
