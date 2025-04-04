@@ -1,0 +1,5 @@
+MSDOS
+    Operation system: MS-DOS[8086, 16-bit, EXE]
+PE32
+    Operation system: Windows(Vista)[I386, 32-bit, GUI]
+    (Heuristic)Protector: Generic[High entropy]

@@ -1,0 +1,11 @@
+Info: 
+    File name: C:/Users/agunz/Downloads/Gunz.exe
+    Size: 66355200(63.28 MiB)
+    File type: PE32
+    String: PE(I386)
+    Extension: exe
+    Operation system: Windows(Vista)
+    Architecture: I386
+    Mode: 32-bit
+    Type: GUI
+    Endianness: LE

@@ -1,0 +1,4 @@
+Offset	Address		Size	Type	
+00	00400000	PE Header	01086c00	PE32	PE(I386)
+0105f261	0431f261	Section(6)['.rsrc']	e46f	zlib	zlib(best)
+0105f238	0431f238	Section(6)['.rsrc']	e4a8	PNG	PNG(256x256)

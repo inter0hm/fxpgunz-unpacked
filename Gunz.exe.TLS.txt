@@ -1,0 +1,7 @@
+Name	Offset	Type	Value		
+StartAddressOfRawData	0000	DWORD	032c0da4		Section(4)['.?}Z']
+EndAddressOfRawData	0004	DWORD	032c0dac		Section(4)['.?}Z']
+AddressOfIndex	0008	DWORD	027c073c		Section(2)['.data']
+AddressOfCallBacks	000c	DWORD	00000000		
+SizeOfZeroFill	0010	DWORD	00000000		
+Characteristics	0014	DWORD	00300000		

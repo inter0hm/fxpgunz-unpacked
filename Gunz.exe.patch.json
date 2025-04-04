@@ -1,0 +1,42 @@
+[
+    {
+        "filename": "C:/Users/agunz/Downloads/gunz\\Section_0_.text.bin",
+        "offset": 0,
+        "size": 0
+    },
+    {
+        "filename": "C:/Users/agunz/Downloads/gunz\\Section_1_.rdata.bin",
+        "offset": 0,
+        "size": 0
+    },
+    {
+        "filename": "C:/Users/agunz/Downloads/gunz\\Section_2_.data.bin",
+        "offset": 0,
+        "size": 0
+    },
+    {
+        "filename": "C:/Users/agunz/Downloads/gunz\\Section_3_.~k].bin",
+        "offset": 0,
+        "size": 0
+    },
+    {
+        "filename": "C:/Users/agunz/Downloads/gunz\\Section_4_._}Z.bin",
+        "offset": 1024,
+        "size": 3584
+    },
+    {
+        "filename": "C:/Users/agunz/Downloads/gunz\\Section_5_.797.bin",
+        "offset": 4608,
+        "size": 17161728
+    },
+    {
+        "filename": "C:/Users/agunz/Downloads/gunz\\Section_6_.rsrc.bin",
+        "offset": 17166336,
+        "size": 160768
+    },
+    {
+        "filename": "C:/Users/agunz/Downloads/gunz\\Section_7_.reloc.bin",
+        "offset": 17327104,
+        "size": 2048
+    }
+]

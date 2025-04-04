@@ -1,0 +1,101 @@
+
+<data>
+    <record name="IMAGE_SECTION_HEADER">
+        <record name="0">
+            <record name="Name" value=".text"/>
+            <record name="VirtualSize" value="0073c62c"/>
+            <record name="VirtualAddress" value="00001000"/>
+            <record name="SizeOfRawData" value="00000000"/>
+            <record name="PointerToRawData" value="00000000"/>
+            <record name="PointerToRelocations" value="00000000"/>
+            <record name="PointerToLinenumbers" value="00000000"/>
+            <record name="NumberOfRelocations" value="0000"/>
+            <record name="NumberOfLinenumbers" value="0000"/>
+            <record name="Characteristics" value="60000020(IMAGE_SCN_CNT_CODE|IMAGE_SCN_MEM_EXECUTE|IMAGE_SCN_MEM_READ)"/>
+        </record>
+        <record name="1">
+            <record name="Name" value=".rdata"/>
+            <record name="VirtualSize" value="001290f6"/>
+            <record name="VirtualAddress" value="0073e000"/>
+            <record name="SizeOfRawData" value="00000000"/>
+            <record name="PointerToRawData" value="00000000"/>
+            <record name="PointerToRelocations" value="00000000"/>
+            <record name="PointerToLinenumbers" value="00000000"/>
+            <record name="NumberOfRelocations" value="0000"/>
+            <record name="NumberOfLinenumbers" value="0000"/>
+            <record name="Characteristics" value="40000040(IMAGE_SCN_CNT_INITIALIZED_DATA|IMAGE_SCN_MEM_READ)"/>
+        </record>
+        <record name="2">
+            <record name="Name" value=".data"/>
+            <record name="VirtualSize" value="01e0509c"/>
+            <record name="VirtualAddress" value="00868000"/>
+            <record name="SizeOfRawData" value="00000000"/>
+            <record name="PointerToRawData" value="00000000"/>
+            <record name="PointerToRelocations" value="00000000"/>
+            <record name="PointerToLinenumbers" value="00000000"/>
+            <record name="NumberOfRelocations" value="0000"/>
+            <record name="NumberOfLinenumbers" value="0000"/>
+            <record name="Characteristics" value="c0000040(IMAGE_SCN_CNT_INITIALIZED_DATA|IMAGE_SCN_MEM_READ|IMAGE_SCN_MEM_WRITE)"/>
+        </record>
+        <record name="3">
+            <record name="Name" value=".~k]"/>
+            <record name="VirtualSize" value="00851cda"/>
+            <record name="VirtualAddress" value="0266e000"/>
+            <record name="SizeOfRawData" value="00000000"/>
+            <record name="PointerToRawData" value="00000000"/>
+            <record name="PointerToRelocations" value="00000000"/>
+            <record name="PointerToLinenumbers" value="00000000"/>
+            <record name="NumberOfRelocations" value="0000"/>
+            <record name="NumberOfLinenumbers" value="0000"/>
+            <record name="Characteristics" value="60000020(IMAGE_SCN_CNT_CODE|IMAGE_SCN_MEM_EXECUTE|IMAGE_SCN_MEM_READ)"/>
+        </record>
+        <record name="4">
+            <record name="Name" value=".?}Z"/>
+            <record name="VirtualSize" value="00000dc4"/>
+            <record name="VirtualAddress" value="02ec0000"/>
+            <record name="SizeOfRawData" value="00000e00"/>
+            <record name="PointerToRawData" value="00000400"/>
+            <record name="PointerToRelocations" value="00000000"/>
+            <record name="PointerToLinenumbers" value="00000000"/>
+            <record name="NumberOfRelocations" value="0000"/>
+            <record name="NumberOfLinenumbers" value="0000"/>
+            <record name="Characteristics" value="c0000040(IMAGE_SCN_CNT_INITIALIZED_DATA|IMAGE_SCN_MEM_READ|IMAGE_SCN_MEM_WRITE)"/>
+        </record>
+        <record name="5">
+            <record name="Name" value=".797"/>
+            <record name="VirtualSize" value="0105dd90"/>
+            <record name="VirtualAddress" value="02ec1000"/>
+            <record name="SizeOfRawData" value="0105de00"/>
+            <record name="PointerToRawData" value="00001200"/>
+            <record name="PointerToRelocations" value="00000000"/>
+            <record name="PointerToLinenumbers" value="00000000"/>
+            <record name="NumberOfRelocations" value="0000"/>
+            <record name="NumberOfLinenumbers" value="0000"/>
+            <record name="Characteristics" value="60000020(IMAGE_SCN_CNT_CODE|IMAGE_SCN_MEM_EXECUTE|IMAGE_SCN_MEM_READ)"/>
+        </record>
+        <record name="6">
+            <record name="Name" value=".rsrc"/>
+            <record name="VirtualSize" value="000272bc"/>
+            <record name="VirtualAddress" value="03f1f000"/>
+            <record name="SizeOfRawData" value="00027400"/>
+            <record name="PointerToRawData" value="0105f000"/>
+            <record name="PointerToRelocations" value="00000000"/>
+            <record name="PointerToLinenumbers" value="00000000"/>
+            <record name="NumberOfRelocations" value="0000"/>
+            <record name="NumberOfLinenumbers" value="0000"/>
+            <record name="Characteristics" value="40000040(IMAGE_SCN_CNT_INITIALIZED_DATA|IMAGE_SCN_MEM_READ)"/>
+        </record>
+        <record name="7">
+            <record name="Name" value=".reloc"/>
+            <record name="VirtualSize" value="00000798"/>
+            <record name="VirtualAddress" value="03f47000"/>
+            <record name="SizeOfRawData" value="00000800"/>
+            <record name="PointerToRawData" value="01086400"/>
+            <record name="PointerToRelocations" value="00000000"/>
+            <record name="PointerToLinenumbers" value="00000000"/>
+            <record name="NumberOfRelocations" value="0000"/>
+            <record name="NumberOfLinenumbers" value="0000"/>
+            <record name="Characteristics" value="42000040(IMAGE_SCN_CNT_INITIALIZED_DATA|IMAGE_SCN_MEM_DISCARDABLE|IMAGE_SCN_MEM_READ)"/>
+        </record>
+    </record>
+</data>

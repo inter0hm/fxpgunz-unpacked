@@ -1,0 +1,6 @@
+Offset	Size	Entropy	Status	Name
+00000000	00000400	2.32855	not packed	PE Header
+00000400	00000e00	6.53266	packed	Section(4)['.?}Z']
+00001200	0105de00	7.96745	packed	Section(5)['.797']
+0105f000	00027400	5.82941	not packed	Section(6)['.rsrc']
+01086400	00000800	4.43919	not packed	Section(7)['.reloc']

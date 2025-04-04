@@ -1,0 +1,14 @@
+Name	Offset	Type	Value		
+dwSignature	0000	DWORD	feef04bd	Signature	
+dwStrucVersion	0004	DWORD	00010000		"1.0"
+dwFileVersionMS	0008	DWORD	00010005		"1.5"
+dwFileVersionLS	000c	DWORD	00000000		"0.0"
+dwProductVersionMS	0010	DWORD	00010005		"1.5"
+dwProductVersionLS	0014	DWORD	00000000		"0.0"
+dwFileFlagsMask	0018	DWORD	00000017		
+dwFileFlags	001c	DWORD	00000000		
+dwFileOS	0020	DWORD	00000004	_WINDOWS32	
+dwFileType	0024	DWORD	00000001	APP	
+dwFileSubtype	0028	DWORD	00000000		
+dwFileDateMS	002c	DWORD	00000000		
+dwFileDateLS	0030	DWORD	00000000		
