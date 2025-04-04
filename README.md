@@ -15,6 +15,10 @@ i made him move to good provider which i regret but this is not a problem since 
 
 
 for crowdsourced collab do not mix launcher ioc with gunz.exe one. https://www.virustotal.com/gui/collection/de71546cf3df1fac8b0ee2fe4b3fc7e5a2f1906c33f73f55bd52c292c21ffb7b/community
+hybrid analysis collections of older unpacked exe sent to me while i was dev @ fxp but never had access to the source or server.
+https://hybrid-analysis.com/file-collection/65c5615a63ecc83d55034d63
+https://hybrid-analysis.com/file-collection/65c5613b4e7008f4fe06e0f3
+
 ```
 
 c8ec7b34f87fb9a65eea7dce247e98361a8074baed46d3bdea1617c2048b4584
