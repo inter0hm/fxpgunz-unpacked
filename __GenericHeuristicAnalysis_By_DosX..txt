@@ -1,0 +1,34 @@
+__GenericHeuristicAnalysis_By_DosX.7.sg
+[HEUR/About] Generic Heuristic Analysis by DosX (@DosX_dev)
+[HEUR] Scanning has begun!
+find_signature['This program cannot be run in DOS mode.']: 40 40 [0 ms]
+find_signature[31 c00F84......00]: 00 01086c00 [14 ms]
+find_signature[31 db0F84......00]: 00 01086c00 [14 ms]
+find_signature[31 c90F84......00]: 00 01086c00 [14 ms]
+find_signature[31 d20F84......00]: 00 01086c00 [14 ms]
+find_signature[31 f60F84......00]: 00 01086c00 [14 ms]
+find_signature[31 ff0F84......00]: 00 01086c00 [14 ms]
+find_signature[31 ed0F84......00]: 00 01086c00 [13 ms]
+find_signature[31 e40F84......00]: 00 01086c00 [13 ms]
+find_signature['T'00'V'00'o'00'A'00'A'00'A'00'A'00'A'00'A']: 80 01086b80 [13 ms]
+find_signature['TVoAAAAAA']: 80 01086b80 [14 ms]
+find_signature['T'00'V'00'q'00'Q'00'A'00'A']: 80 01086b80 [14 ms]
+find_signature['TVqQAA']: 80 01086b80 [14 ms]
+find_signature['T'00'V'00'p'00'Q'00'A'00'A']: 80 01086b80 [14 ms]
+find_signature['TVpQAA']: 80 01086b80 [13 ms]
+find_signature['T'00'V'00'p'00'4'00'A'00'A']: 80 01086b80 [13 ms]
+find_signature['TVp4AA']: 80 01086b80 [13 ms]
+[HEUR] Scanning to programming language has started!
+isSignaturePresent[%% %% %% %% %% %% %% %% %% '.cpp' 00 00]: 00 01086c00 [14 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% %% '.rs' 00 00]: 00 01086c00 [14 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% %% '.class' 00 00]: 00 01086c00 [14 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% %% '.js' 00 00]: 00 01086c00 [14 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% %% '.pyd' 00 00]: 00 01086c00 [14 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% %% %% '.c' 00]: 00 01086c00 [15 ms]
+[HEUR/Any] ASMx86 language detected!
+[HEUR] Scan completed.
+__GenericHeuristicAnalysis_By_DosX.7.sg: [398 ms]
+PE32
+    (Heur)Language: ASMx86
+    (Heur)Protection: Generic[Strange sections]
+    (Heur)Packer: Packer detected[High entropy + Section 5 (".797") compressed]

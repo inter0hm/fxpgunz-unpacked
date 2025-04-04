@@ -1,0 +1,7 @@
+[INFO] artifact:	set(['syscache', 'sccm', 'amcache', 'lnk', 'iehist', 'defender', 'usrclass', 'wer', 'srum', 'ntuser', 'reg', 'thumbcache', 'timeline', 'jmp', 'evtl', 'regb', 'antimalware', 'startupinfo', 'sch_job', 'rdpcache', 'prefetch', 'sch_xml', 'setupapi', 'pshist'])
+[INFO] dest:	C:\Users\agunz\Downloads
+[INFO] old:	False
+[INFO] pp:	False
+[INFO] source:	C:\Users\agunz\Downloads
+[INFO] ud:	None
+[INFO] uf:	None
