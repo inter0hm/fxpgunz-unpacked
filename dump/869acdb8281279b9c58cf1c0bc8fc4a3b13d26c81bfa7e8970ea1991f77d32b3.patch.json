@@ -1,0 +1,32 @@
+[
+    {
+        "filename": "C:/Users/agunz/Desktop/gZ\\00_0400_PE Header.bin",
+        "offset": 0,
+        "size": 1024
+    },
+    {
+        "filename": "C:/Users/agunz/Desktop/gZ\\0400_006ee800_Section(0)['.text'].bin",
+        "offset": 1024,
+        "size": 7268352
+    },
+    {
+        "filename": "C:/Users/agunz/Desktop/gZ\\006eec00_00112c00_Section(1)['.rdata'].bin",
+        "offset": 7269376,
+        "size": 1125376
+    },
+    {
+        "filename": "C:/Users/agunz/Desktop/gZ\\00801800_0001f400_Section(2)['.data'].bin",
+        "offset": 8394752,
+        "size": 128000
+    },
+    {
+        "filename": "C:/Users/agunz/Desktop/gZ\\00820c00_00027400_Section(3)['.rsrc'].bin",
+        "offset": 8522752,
+        "size": 160768
+    },
+    {
+        "filename": "C:/Users/agunz/Desktop/gZ\\00848000_00061e00_Section(4)['.reloc'].bin",
+        "offset": 8683520,
+        "size": 400896
+    }
+]

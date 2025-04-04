@@ -1,0 +1,2283 @@
+_init
+_init: [0 ms]
+LE.0.sg
+LE.0.sg: [0 ms]
+LX.0.sg
+LX.0.sg: [0 ms]
+NE.0.sg
+NE.0.sg: [0 ms]
+_MSDOS.0.sg
+_MSDOS.0.sg: [0 ms]
+32stub.0a.sg
+32stub.0a.sg: [0 ms]
+Blinker.0a.sg
+Blinker.0a.sg: [0 ms]
+Borland_RTM.0a.sg
+Borland_RTM.0a.sg: [0 ms]
+Borland_TDS.sg
+Borland_TDS.sg: [0 ms]
+CWSDPMI.0a.sg
+CWSDPMI.0a.sg: [0 ms]
+CauseWay_DOS_Extender.0a.sg
+CauseWay_DOS_Extender.0a.sg: [0 ms]
+DOS32.0a.sg
+DOS32.0a.sg: [0 ms]
+DOS32_loader.0a.sg
+DOS32_loader.0a.sg: [0 ms]
+DOS4G.0a.sg
+isSignaturePresent['DOS/4G']: 00 0400 [0 ms]
+isSignaturePresent['DOS4GW']: 00 0400 [0 ms]
+isSignaturePresent['dos4gw']: fffffffffffffd70 0400 [0 ms]
+DOS4G.0a.sg: [0 ms]
+DOSX16.0a.sg
+DOSX16.0a.sg: [0 ms]
+DOS_16M.0a.sg
+DOS_16M.0a.sg: [0 ms]
+DOS_32A.0a.sg
+DOS_32A.0a.sg: [0 ms]
+EMMXXXX0_check.0a.sg
+EMMXXXX0_check.0a.sg: [0 ms]
+EMX.0a.sg
+EMX.0a.sg: [0 ms]
+GameWizard_DOS_Extender.0a.sg
+GameWizard_DOS_Extender.0a.sg: [0 ms]
+Go32Stub.0a.sg
+Go32Stub.0a.sg: [0 ms]
+Micro_Focus_DOS_extender.0a.sg
+Micro_Focus_DOS_extender.0a.sg: [0 ms]
+PMODE.0a.sg
+PMODE.0a.sg: [0 ms]
+PRO32.0a.sg
+PRO32.0a.sg: [0 ms]
+Phar_Lap.0a.sg
+Phar_Lap.0a.sg: [0 ms]
+RSX.0a.sg
+RSX.0a.sg: [0 ms]
+RTLink_VM_Manager.0a.sg
+RTLink_VM_Manager.0a.sg: [0 ms]
+Stub-386.0a.sg
+Stub-386.0a.sg: [0 ms]
+TMTSTUB.0a.sg
+TMTSTUB.0a.sg: [0 ms]
+WDOSX.0a.sg
+WDOSX.0a.sg: [0 ms]
+WDOSX32.0a.sg
+WDOSX32.0a.sg: [0 ms]
+XMLOD.0a.sg
+XMLOD.0a.sg: [0 ms]
+Xtender.0a.sg
+Xtender.0a.sg: [0 ms]
+Zurenava_DOS_Extender.0a.sg
+Zurenava_DOS_Extender.0a.sg: [0 ms]
+dos_extender.0a.sg
+dos_extender.0a.sg: [0 ms]
+dos_extender1.0a.sg
+dos_extender1.0a.sg: [0 ms]
+dos_extender2.0a.sg
+dos_extender2.0a.sg: [0 ms]
+ANS2ALL.1.sg
+ANS2ALL.1.sg: [0 ms]
+ARC.1.sg
+ARC.1.sg: [0 ms]
+ARJ.1.sg
+isSignaturePresent['aRJsfX']: 00 03e8 [0 ms]
+ARJ.1.sg: [0 ms]
+Adys_COM2EXE.1.sg
+Adys_COM2EXE.1.sg: [0 ms]
+Amisetup.1.sg
+Amisetup.1.sg: [0 ms]
+AutoHack.1.sg
+AutoHack.1.sg: [0 ms]
+CPAV.1.sg
+CPAV.1.sg: [0 ms]
+ChSFX.1.sg
+ChSFX.1.sg: [0 ms]
+Coderunner.1.sg
+Coderunner.1.sg: [0 ms]
+CopyQM_SFX.1.sg
+CopyQM_SFX.1.sg: [0 ms]
+Copylock_PC.1.sg
+Copylock_PC.1.sg: [0 ms]
+Disk_eXPress.1.sg
+Disk_eXPress.1.sg: [0 ms]
+EXARJ.1.sg
+EXARJ.1.sg: [0 ms]
+EXE2COM.1.sg
+EXE2COM.1.sg: [0 ms]
+EXETools_COM2EXE.1.sg
+EXETools_COM2EXE.1.sg: [0 ms]
+Eliashim's_CodeTrack.1.sg
+Eliashim's_CodeTrack.1.sg: [0 ms]
+F-XLOCK.1.sg
+F-XLOCK.1.sg: [0 ms]
+File_Shield.1.sg
+File_Shield.1.sg: [0 ms]
+FromBAT.1.sg
+FromBAT.1.sg: [0 ms]
+GFX_to_EXE.1.sg
+GFX_to_EXE.1.sg: [0 ms]
+GOAT.1.sg
+GOAT.1.sg: [0 ms]
+GRABBER.1.sg
+GRABBER.1.sg: [0 ms]
+Graphic_WorkShop.1.sg
+Graphic_WorkShop.1.sg: [0 ms]
+H+BEDV_SelfCheck.1.sg
+H+BEDV_SelfCheck.1.sg: [0 ms]
+ICE.1.sg
+ICE.1.sg: [0 ms]
+IMMUN.1.sg
+IMMUN.1.sg: [0 ms]
+LH.1.sg
+LH.1.sg: [0 ms]
+LHA.1.sg
+LHA.1.sg: [0 ms]
+LHarc.1.sg
+LHarc.1.sg: [0 ms]
+MSLite.1.sg
+MSLite.1.sg: [0 ms]
+Netware_loader.1.sg
+Netware_loader.1.sg: [0 ms]
+Oyster.1.sg
+Oyster.1.sg: [0 ms]
+PGPROT.1.sg
+PGPROT.1.sg: [0 ms]
+PKSFX.1.sg
+PKSFX.1.sg: [0 ms]
+PKZIP-SFX.1.sg
+PKZIP-SFX.1.sg: [0 ms]
+PKZIP_mini-sfx.1.sg
+PKZIP_mini-sfx.1.sg: [0 ms]
+PK_sig.1.sg
+PK_sig.1.sg: [0 ms]
+PROPACK_SFX.1.sg
+PROPACK_SFX.1.sg: [0 ms]
+Palladix.1.sg
+Palladix.1.sg: [0 ms]
+Panda_immunizer.1.sg
+Panda_immunizer.1.sg: [0 ms]
+Patchers.1.sg
+Patchers.1.sg: [0 ms]
+REC_small.1.sg
+REC_small.1.sg: [0 ms]
+REC_small_AV.1.sg
+REC_small_AV.1.sg: [0 ms]
+RELETTER.1.sg
+RELETTER.1.sg: [0 ms]
+RTPatch_SFX.1.sg
+RTPatch_SFX.1.sg: [0 ms]
+SFX.1.sg
+SFX.1.sg: [0 ms]
+SHOW_IT.1.sg
+SHOW_IT.1.sg: [0 ms]
+SimplyWare.1.sg
+SimplyWare.1.sg: [0 ms]
+Sydex_SFX.1.sg
+Sydex_SFX.1.sg: [0 ms]
+TTW.1.sg
+TTW.1.sg: [0 ms]
+TXT2COM.1.sg
+TXT2COM.1.sg: [0 ms]
+TXTmaker.1.sg
+TXTmaker.1.sg: [0 ms]
+TurboChainer.1.sg
+TurboChainer.1.sg: [0 ms]
+Txt2Exe.1.sg
+Txt2Exe.1.sg: [0 ms]
+UniVac.1.sg
+UniVac.1.sg: [0 ms]
+V-Load.1.sg
+V-Load.1.sg: [0 ms]
+Window_book.1.sg
+Window_book.1.sg: [0 ms]
+Wizardy_protection.1.sg
+Wizardy_protection.1.sg: [0 ms]
+ZOO.1.sg
+ZOO.1.sg: [0 ms]
+anti-tracing_add-on.1.sg
+anti-tracing_add-on.1.sg: [0 ms]
+immunizer.1.sg
+immunizer.1.sg: [0 ms]
+self-displayer.1.sg
+self-displayer.1.sg: [0 ms]
+virus.1.sg
+virus.1.sg: [0 ms]
+$pirit.2.sg
+$pirit.2.sg: [0 ms]
+ABKprot.2.sg
+ABKprot.2.sg: [0 ms]
+AEP.2.sg
+AEP.2.sg: [0 ms]
+AINEXE.2.sg
+AINEXE.2.sg: [0 ms]
+ALEC.2.sg
+ALEC.2.sg: [0 ms]
+AVAST_CRC-Check.2.sg
+AVAST_CRC-Check.2.sg: [0 ms]
+AVPACK.2.sg
+AVPACK.2.sg: [0 ms]
+Adys_Glue.2.sg
+Adys_Glue.2.sg: [0 ms]
+Aluwain.2.sg
+Aluwain.2.sg: [0 ms]
+Anti-LAME.2.sg
+Anti-LAME.2.sg: [0 ms]
+Anti-hack_encryption_system.2.sg
+Anti-hack_encryption_system.2.sg: [0 ms]
+Antilame.2.sg
+Antilame.2.sg: [0 ms]
+Bitlok.2.sg
+Bitlok.2.sg: [0 ms]
+Black_fist.2.sg
+Black_fist.2.sg: [0 ms]
+Bunny.2.sg
+Bunny.2.sg: [0 ms]
+CC.2.sg
+CC.2.sg: [0 ms]
+CEPexe.2.sg
+CEPexe.2.sg: [0 ms]
+CERBERUS.2.sg
+CERBERUS.2.sg: [0 ms]
+COMCRYPT.2.sg
+COMCRYPT.2.sg: [0 ms]
+COMPACK.2.sg
+COMPACK.2.sg: [0 ms]
+COMPROTECT.2.sg
+COMPROTECT.2.sg: [0 ms]
+CONVOY.2.sg
+CONVOY.2.sg: [0 ms]
+CRYPACK.2.sg
+CRYPACK.2.sg: [0 ms]
+CRYPTEXE.2.sg
+CRYPTEXE.2.sg: [0 ms]
+CSCRYPT_Pro.2.sg
+CSCRYPT_Pro.2.sg: [0 ms]
+Ciphator.2.sg
+Ciphator.2.sg: [0 ms]
+Codesafe.2.sg
+Codesafe.2.sg: [0 ms]
+ComProtector.2.sg
+ComProtector.2.sg: [0 ms]
+ComprEXE.2.sg
+ComprEXE.2.sg: [0 ms]
+Compress-EXE.2.sg
+Compress-EXE.2.sg: [0 ms]
+Copy_Protector.2.sg
+Copy_Protector.2.sg: [0 ms]
+CrAcKeR.2.sg
+CrAcKeR.2.sg: [0 ms]
+CrackStop.2.sg
+CrackStop.2.sg: [0 ms]
+Cruncher.2.sg
+Cruncher.2.sg: [0 ms]
+CryExe.2.sg
+CryExe.2.sg: [0 ms]
+CryptCom.2.sg
+CryptCom.2.sg: [0 ms]
+Crypt_(Dismember).2.sg
+Crypt_(Dismember).2.sg: [0 ms]
+Crypt_(LightShow).2.sg
+Crypt_(LightShow).2.sg: [0 ms]
+CrypteXeC.2.sg
+CrypteXeC.2.sg: [0 ms]
+Cryptors.2.sg
+Cryptors.2.sg: [0 ms]
+DAEMON_Protect.2.sg
+DAEMON_Protect.2.sg: [0 ms]
+DCREXE.2.sg
+DCREXE.2.sg: [0 ms]
+DIET.2.sg
+DIET.2.sg: [0 ms]
+DMC.2.sg
+DMC.2.sg: [0 ms]
+DSHIELD.2.sg
+DSHIELD.2.sg: [0 ms]
+Deeper.2.sg
+Deeper.2.sg: [0 ms]
+DemoMaker.2.sg
+DemoMaker.2.sg: [0 ms]
+DexEXE.2.sg
+DexEXE.2.sg: [0 ms]
+E-PROT.2.sg
+E-PROT.2.sg: [0 ms]
+EEXE.2.sg
+EEXE.2.sg: [0 ms]
+EPW.2.sg
+EPW.2.sg: [0 ms]
+EXE-Crypt.2.sg
+EXE-Crypt.2.sg: [0 ms]
+EXE-Cryptor.2.sg
+EXE-Cryptor.2.sg: [0 ms]
+EXE-Protect.2.sg
+EXE-Protect.2.sg: [0 ms]
+EXECUTRIX.2.sg
+EXECUTRIX.2.sg: [0 ms]
+EXEGUARD.2.sg
+EXEGUARD.2.sg: [0 ms]
+EXEHigh.2.sg
+EXEHigh.2.sg: [0 ms]
+EXEPACK.2.sg
+EXEPACK.2.sg: [0 ms]
+EXETools.2.sg
+EXETools.2.sg: [0 ms]
+EXE_Manager.2.sg
+EXE_Manager.2.sg: [0 ms]
+EXE_Packer.2.sg
+EXE_Packer.2.sg: [0 ms]
+EXE_encryption.2.sg
+EXE_encryption.2.sg: [0 ms]
+Encriptor.2.sg
+Encriptor.2.sg: [0 ms]
+Enkryptonator.2.sg
+Enkryptonator.2.sg: [0 ms]
+ExeCode.2.sg
+ExeCode.2.sg: [0 ms]
+ExeLITE.2.sg
+ExeLITE.2.sg: [0 ms]
+ExeLock.2.sg
+ExeLock.2.sg: [0 ms]
+FACRYPT.2.sg
+FACRYPT.2.sg: [0 ms]
+FCP_IV.2.sg
+FCP_IV.2.sg: [0 ms]
+FSE.2.sg
+FSE.2.sg: [0 ms]
+Guardian_Angel.2.sg
+Guardian_Angel.2.sg: [0 ms]
+HACKSTOP.2.sg
+HACKSTOP.2.sg: [0 ms]
+HASP.2.sg
+HASP.2.sg: [0 ms]
+HEALTH.2.sg
+HEALTH.2.sg: [0 ms]
+Header_Changer.2.sg
+Header_Changer.2.sg: [0 ms]
+HyperLOCK_386.2.sg
+HyperLOCK_386.2.sg: [0 ms]
+Inertia.2.sg
+Inertia.2.sg: [0 ms]
+Ironthorn.2.sg
+Ironthorn.2.sg: [0 ms]
+JAM.2.sg
+JAM.2.sg: [0 ms]
+JmCryptExe.2.sg
+JmCryptExe.2.sg: [0 ms]
+Joke.2.sg
+Joke.2.sg: [0 ms]
+KeyMaker.2.sg
+KeyMaker.2.sg: [0 ms]
+Khrome_Crypt.2.sg
+Khrome_Crypt.2.sg: [0 ms]
+Kvetch.2.sg
+Kvetch.2.sg: [0 ms]
+LGLZ.2.sg
+LGLZ.2.sg: [0 ms]
+LOCK.2.sg
+LOCK.2.sg: [0 ms]
+LZEXE.2.sg
+LZEXE.2.sg: [0 ms]
+LamerStop.2.sg
+LamerStop.2.sg: [0 ms]
+LockTite+.2.sg
+LockTite+.2.sg: [0 ms]
+MEGALITE.2.sg
+MEGALITE.2.sg: [0 ms]
+MESS.2.sg
+MESS.2.sg: [0 ms]
+Maker.2.sg
+Maker.2.sg: [0 ms]
+Mandrake.2.sg
+Mandrake.2.sg: [0 ms]
+MultiLoop_Protection.2.sg
+MultiLoop_Protection.2.sg: [0 ms]
+MutaWWP.2.sg
+MutaWWP.2.sg: [0 ms]
+Mutate.2.sg
+Mutate.2.sg: [0 ms]
+NOCLIP.2.sg
+NOCLIP.2.sg: [0 ms]
+NOTA.2.sg
+NOTA.2.sg: [0 ms]
+NTShell.2.sg
+NTShell.2.sg: [0 ms]
+Nodebug.2.sg
+Nodebug.2.sg: [0 ms]
+Novex.2.sg
+Novex.2.sg: [0 ms]
+Optlink.2.sg
+Optlink.2.sg: [0 ms]
+Overlay.2.sg
+Overlay.2.sg: [0 ms]
+PACKWIN.2.sg
+PACKWIN.2.sg: [0 ms]
+PC-Guard.2.sg
+PC-Guard.2.sg: [0 ms]
+PCOM.2.sg
+PCOM.2.sg: [0 ms]
+PGMPAK.2.sg
+PGMPAK.2.sg: [0 ms]
+PKEXE.2.sg
+PKEXE.2.sg: [0 ms]
+PKLITE.2.sg
+PKLITE.2.sg: [0 ms]
+PKTINY.2.sg
+PKTINY.2.sg: [0 ms]
+PMWLite.2.sg
+PMWLite.2.sg: [0 ms]
+PRO-PACK.2.sg
+PRO-PACK.2.sg: [0 ms]
+PROTECT.2.sg
+find_signature[0c02e9......e421e9......88e0..........eb....e621e9......88c4........e9......e621eb]: 00 008a9e00 [10 ms]
+find_signature[e42150e9......e621e9......58e621e9......b0ffeb]: 00 008a9e00 [9 ms]
+PROTECT.2.sg: [20 ms]
+PVAC.2.sg
+PVAC.2.sg: [0 ms]
+Pack.2.sg
+Pack.2.sg: [0 ms]
+Packers.2.sg
+Packers.2.sg: [0 ms]
+PassEXE.2.sg
+PassEXE.2.sg: [0 ms]
+Pksmart.2.sg
+Pksmart.2.sg: [0 ms]
+ProtEXE.2.sg
+ProtEXE.2.sg: [0 ms]
+Protector.2.sg
+Protector.2.sg: [0 ms]
+Quadru-Lock.2.sg
+Quadru-Lock.2.sg: [0 ms]
+R-Crypt.2.sg
+R-Crypt.2.sg: [0 ms]
+REC.2.sg
+REC.2.sg: [0 ms]
+RERP.2.sg
+RERP.2.sg: [0 ms]
+RHC.2.sg
+RHC.2.sg: [0 ms]
+RJcrush.2.sg
+RJcrush.2.sg: [0 ms]
+RLE_com-packer.2.sg
+RLE_com-packer.2.sg: [0 ms]
+ROSETINY.2.sg
+ROSETINY.2.sg: [0 ms]
+Relpack.2.sg
+Relpack.2.sg: [0 ms]
+SCRNCH.2.sg
+SCRNCH.2.sg: [0 ms]
+SEA-AXE.2.sg
+SEA-AXE.2.sg: [0 ms]
+Scramb.2.sg
+Scramb.2.sg: [0 ms]
+Secure.2.sg
+Secure.2.sg: [0 ms]
+SelfChk.2.sg
+SelfChk.2.sg: [0 ms]
+Self_UnStuffer.2.sg
+Self_UnStuffer.2.sg: [0 ms]
+Shrink.2.sg
+Shrink.2.sg: [0 ms]
+Shrinker.2.sg
+Shrinker.2.sg: [0 ms]
+SnoopStop.2.sg
+SnoopStop.2.sg: [0 ms]
+SuckStop.2.sg
+SuckStop.2.sg: [0 ms]
+TCEC.2.sg
+TCEC.2.sg: [0 ms]
+TSCRUNCH.2.sg
+TSCRUNCH.2.sg: [0 ms]
+TUCCRYP.2.sg
+TUCCRYP.2.sg: [0 ms]
+Tenth_Planet.2.sg
+Tenth_Planet.2.sg: [0 ms]
+TinyProg.2.sg
+TinyProg.2.sg: [0 ms]
+Tinyprot.2.sg
+Tinyprot.2.sg: [0 ms]
+TraceLock.2.sg
+TraceLock.2.sg: [0 ms]
+Trap.2.sg
+Trap.2.sg: [0 ms]
+UCEXE.2.sg
+UCEXE.2.sg: [0 ms]
+UPX.2.sg
+findString[$Id: UPX]: 00 2000 [0 ms]
+isSignaturePresent['UPX!']: 00 80 [0 ms]
+UPX.2.sg: [0 ms]
+Un2pack.2.sg
+Un2pack.2.sg: [0 ms]
+UnPackStop.2.sg
+UnPackStop.2.sg: [0 ms]
+Unknown_cryptors.2.sg
+Unknown_cryptors.2.sg: [0 ms]
+WWPACK.2.sg
+WWPACK.2.sg: [0 ms]
+WWPACK_mutator.2.sg
+WWPACK_mutator.2.sg: [0 ms]
+WordPerfect_EXEPack.2.sg
+WordPerfect_EXEPack.2.sg: [0 ms]
+XDOC.2.sg
+XDOC.2.sg: [0 ms]
+XPACK.2.sg
+XPACK.2.sg: [0 ms]
+ZIPSCRUB.2.sg
+ZIPSCRUB.2.sg: [0 ms]
+aPACK.2.sg
+aPACK.2.sg: [0 ms]
+aPatch.2.sg
+aPatch.2.sg: [0 ms]
+com2exe.2.sg
+com2exe.2.sg: [0 ms]
+cramble.2.sg
+cramble.2.sg: [0 ms]
+deep-CRyPTer.2.sg
+deep-CRyPTer.2.sg: [0 ms]
+iLUCRYPT.2.sg
+iLUCRYPT.2.sg: [0 ms]
+mbp_SHRINK.2.sg
+mbp_SHRINK.2.sg: [0 ms]
+nbuild.2.sg
+nbuild.2.sg: [0 ms]
+John_Socha_Library.3.sg
+John_Socha_Library.3.sg: [0 ms]
+Microsoft_C_Library.3.sg
+Microsoft_C_Library.3.sg: [0 ms]
+Microsoft_RTL.3.sg
+Microsoft_RTL.3.sg: [0 ms]
+Microsoft_RTL_(Clipper).3.sg
+Microsoft_RTL_(Clipper).3.sg: [0 ms]
+ASIC-Basic.4.sg
+ASIC-Basic.4.sg: [0 ms]
+Ada89.4.sg
+Ada89.4.sg: [0 ms]
+ApBasic.4.sg
+ApBasic.4.sg: [0 ms]
+Aztec_C-86.4.sg
+Aztec_C-86.4.sg: [0 ms]
+BAT2EXEC.4.sg
+BAT2EXEC.4.sg: [0 ms]
+BSTAR_FORTH.4.sg
+BSTAR_FORTH.4.sg: [0 ms]
+BatLite.4.sg
+BatLite.4.sg: [0 ms]
+BetterBASIC.4.sg
+BetterBASIC.4.sg: [0 ms]
+Borland_C.4.sg
+findString[ - Copyright ]: 00 40 [0 ms]
+Borland_C.4.sg: [0 ms]
+Borland_Pascal.4.sg
+Borland_Pascal.4.sg: [0 ms]
+CII-C.4.sg
+CII-C.4.sg: [0 ms]
+Concurrent_Small_C.4.sg
+Concurrent_Small_C.4.sg: [0 ms]
+Digital_Research_C.4.sg
+Digital_Research_C.4.sg: [0 ms]
+Easy!-C.4.sg
+Easy!-C.4.sg: [0 ms]
+Fitted_Modula-2.4.sg
+Fitted_Modula-2.4.sg: [0 ms]
+ForthInfo.4.sg
+ForthInfo.4.sg: [0 ms]
+GRASP.4.sg
+GRASP.4.sg: [0 ms]
+Hi-Tech_C.4.sg
+Hi-Tech_C.4.sg: [0 ms]
+IBM_PC_Pascal.4.sg
+IBM_PC_Pascal.4.sg: [0 ms]
+LSI_C.4.sg
+LSI_C.4.sg: [0 ms]
+L_O_V_E__FORTH.4.sg
+L_O_V_E__FORTH.4.sg: [0 ms]
+Lahey_Fortran.4.sg
+Lahey_Fortran.4.sg: [0 ms]
+Lattice_C.4.sg
+Lattice_C.4.sg: [0 ms]
+Logitech_Modula-2.4.sg
+Logitech_Modula-2.4.sg: [0 ms]
+MegaBasic.4.sg
+MegaBasic.4.sg: [0 ms]
+MegaBasic1.4.sg
+MegaBasic1.4.sg: [0 ms]
+Meridian_Ada.4.sg
+Meridian_Ada.4.sg: [0 ms]
+Meridian_Pascal.4.sg
+Meridian_Pascal.4.sg: [0 ms]
+MetaWare_High_C.4.sg
+MetaWare_High_C.4.sg: [0 ms]
+MetaWare_Professional_Pascal.4.sg
+MetaWare_Professional_Pascal.4.sg: [0 ms]
+Micro_Focus_Cobol.4.sg
+Micro_Focus_Cobol.4.sg: [0 ms]
+Microsoft_Basic.4.sg
+Microsoft_Basic.4.sg: [0 ms]
+Microsoft_C.4.sg
+Microsoft_C.4.sg: [0 ms]
+Microsoft_Fortran.4.sg
+Microsoft_Fortran.4.sg: [0 ms]
+Microsoft_Quick_Basic.4.sg
+Microsoft_Quick_Basic.4.sg: [0 ms]
+Microsoft_Quick_Pascal.4.sg
+Microsoft_Quick_Pascal.4.sg: [0 ms]
+Oberon-M.4.sg
+Oberon-M.4.sg: [0 ms]
+PCC.4.sg
+PCC.4.sg: [0 ms]
+PDC_Prolog.4.sg
+PDC_Prolog.4.sg: [0 ms]
+Pacific_C.4.sg
+Pacific_C.4.sg: [0 ms]
+Pascal_MT+86.4.sg
+Pascal_MT+86.4.sg: [0 ms]
+Power_C.4.sg
+Power_C.4.sg: [0 ms]
+RM_FORTRAN.4.sg
+RM_FORTRAN.4.sg: [0 ms]
+Realia_Cobol.4.sg
+Realia_Cobol.4.sg: [0 ms]
+Realia_SPITBOL.4.sg
+Realia_SPITBOL.4.sg: [0 ms]
+SP-FORTH.4.sg
+SP-FORTH.4.sg: [0 ms]
+Small_C.4.sg
+Small_C.4.sg: [0 ms]
+StonyBrook_Pascal.4.sg
+StonyBrook_Pascal.4.sg: [0 ms]
+Symantec_BASIC.4.sg
+Symantec_BASIC.4.sg: [0 ms]
+Topspeed_C.4.sg
+Topspeed_C.4.sg: [0 ms]
+Topspeed_Modula.4.sg
+Topspeed_Modula.4.sg: [0 ms]
+Turbo_Basic.4.sg
+Turbo_Basic.4.sg: [0 ms]
+Turbo_Prolog.4.sg
+Turbo_Prolog.4.sg: [0 ms]
+UR_FORTH.4.sg
+UR_FORTH.4.sg: [0 ms]
+Upper_Deck_Forth.4.sg
+Upper_Deck_Forth.4.sg: [0 ms]
+Visual_Cobol.4.sg
+Visual_Cobol.4.sg: [0 ms]
+WATCOM.4.sg
+isSignaturePresent['WATCOM C']: 00 0800 [0 ms]
+WATCOM.4.sg: [0 ms]
+WPFORTH.4.sg
+WPFORTH.4.sg: [0 ms]
+Whitesmiths_C.4.sg
+Whitesmiths_C.4.sg: [0 ms]
+Zbikowski_C.4.sg
+Zbikowski_C.4.sg: [0 ms]
+Zortech(Symantec)_C.4.sg
+Zortech(Symantec)_C.4.sg: [0 ms]
+djgpp.4.sg
+isSignaturePresent['StubInfoMagic!!']: 00 2000 [0 ms]
+djgpp.4.sg: [0 ms]
+muLISP-87.4.sg
+muLISP-87.4.sg: [0 ms]
+Borland_TLINK.5.sg
+Borland_TLINK.5.sg: [0 ms]
+ACE.6.sg
+ACE.6.sg: [0 ms]
+RAR.6.sg
+RAR.6.sg: [0 ms]
+Zip.6.sg
+find_signature['PK'0506]: 008a8df5 1000 [0 ms]
+Zip.6.sg: [0 ms]
+overlays.6.sg
+overlays.6.sg: [0 ms]
+_init
+_init: [0 ms]
+_PE.0.sg
+_PE.0.sg: [0 ms]
+12Ghosts_Zip2.1.sg
+12Ghosts_Zip2.1.sg: [0 ms]
+7z.1.sg
+7z.1.sg: [0 ms]
+ACCAStore.1.sg
+ACCAStore.1.sg: [0 ms]
+ADS_Self_Extractor.1.sg
+ADS_Self_Extractor.1.sg: [0 ms]
+AOLSetup.1.sg
+AOLSetup.1.sg: [0 ms]
+ARJSFX.1.sg
+ARJSFX.1.sg: [0 ms]
+ARQ.1.sg
+ARQ.1.sg: [0 ms]
+Abbyy_Lingvo.1.sg
+Abbyy_Lingvo.1.sg: [0 ms]
+Acronis_installer.1.sg
+Acronis_installer.1.sg: [0 ms]
+Active_Delivery.1.sg
+Active_Delivery.1.sg: [0 ms]
+Actual_Installer.1.sg
+Actual_Installer.1.sg: [0 ms]
+Adobe_FlashPlayer_downloader.1.sg
+Adobe_FlashPlayer_downloader.1.sg: [0 ms]
+Adobe_installers.1.sg
+Adobe_installers.1.sg: [0 ms]
+Advanced_installer.1.sg
+find_signature['ADVINSTSFX']: 008a9db0 50 [0 ms]
+Advanced_installer.1.sg: [0 ms]
+Adveractive.1.sg
+Adveractive.1.sg: [0 ms]
+Aeco_installer.1.sg
+Aeco_installer.1.sg: [0 ms]
+Alchemy_Mindworks_installer.1.sg
+Alchemy_Mindworks_installer.1.sg: [0 ms]
+Alienyze.1.sg
+Alienyze.1.sg: [0 ms]
+Astrum.1.sg
+Astrum.1.sg: [0 ms]
+AutoPlay_Media_Studio.1.sg
+AutoPlay_Media_Studio.1.sg: [0 ms]
+Autodesk_Self-Extract.1.sg
+Autodesk_Self-Extract.1.sg: [0 ms]
+AutorunProEnterprise.1.sg
+findString[9AutoRunObjects]: 00820c00 00027400 [0 ms]
+findString[AutoRunObjects]: 00820c00 00027400 [0 ms]
+AutorunProEnterprise.1.sg: [0 ms]
+AutorunProEnterpriseII.1.sg
+AutorunProEnterpriseII.1.sg: [0 ms]
+Bat_to_exe.1.sg
+Bat_to_exe.1.sg: [0 ms]
+BitRock_Installer.1.sg
+BitRock_Installer.1.sg: [0 ms]
+Blizzard_PrePatch.1.sg
+Blizzard_PrePatch.1.sg: [0 ms]
+BulletProofSoft_installer.1.sg
+BulletProofSoft_installer.1.sg: [0 ms]
+Bytessence_Install_Maker.1.sg
+Bytessence_Install_Maker.1.sg: [0 ms]
+CSDD_installer.1.sg
+CSDD_installer.1.sg: [0 ms]
+CZ_installer.1.sg
+CZ_installer.1.sg: [0 ms]
+Cab.1.sg
+Cab.1.sg: [2 ms]
+Calibre_installer.1.sg
+Calibre_installer.1.sg: [0 ms]
+Celesty_File_Binder.1.sg
+Celesty_File_Binder.1.sg: [0 ms]
+ChainskiCrypter.1.sg
+ChainskiCrypter.1.sg: [0 ms]
+Chaos_Software_installer.1.sg
+Chaos_Software_installer.1.sg: [0 ms]
+Chilkat_ZIP_Self-Extractor.1.sg
+Chilkat_ZIP_Self-Extractor.1.sg: [0 ms]
+CipherWall.1.sg
+CipherWall.1.sg: [0 ms]
+ClickTeam.1.sg
+ClickTeam.1.sg: [0 ms]
+CodeFusion_Wizard.1.sg
+CodeFusion_Wizard.1.sg: [0 ms]
+Codegear_Installer.1.sg
+Codegear_Installer.1.sg: [0 ms]
+CreateInstall.1.sg
+CreateInstall.1.sg: [0 ms]
+CronosCrypter.1.sg
+CronosCrypter.1.sg: [0 ms]
+CrypKey_Installer.1.sg
+CrypKey_Installer.1.sg: [0 ms]
+Cryptect.1.sg
+Cryptect.1.sg: [0 ms]
+Cxfreeze.1.sg
+findString[Unable to change DLL search path!]: 006eec00 00112c00 [1 ms]
+Cxfreeze.1.sg: [1 ms]
+DataAnubis.1.sg
+DataAnubis.1.sg: [0 ms]
+DeployMaster.1.sg
+DeployMaster.1.sg: [0 ms]
+Dimd_SFX.1.sg
+Dimd_SFX.1.sg: [0 ms]
+DockerDesktopInstaller.1.sg
+DockerDesktopInstaller.1.sg: [0 ms]
+Dolphin_VM.1.sg
+Dolphin_VM.1.sg: [0 ms]
+Envoy_Packager.1.sg
+Envoy_Packager.1.sg: [0 ms]
+Eschalon_installer.1.sg
+Eschalon_installer.1.sg: [0 ms]
+Excelsior_Installer.1.sg
+Excelsior_Installer.1.sg: [0 ms]
+ExeSplitter.1.sg
+ExeSplitter.1.sg: [0 ms]
+FDM_Installer.1.sg
+FDM_Installer.1.sg: [0 ms]
+FreeJoiner.1.sg
+FreeJoiner.1.sg: [0 ms]
+GPInstall.1.sg
+GPInstall.1.sg: [0 ms]
+GSplit.1.sg
+GSplit.1.sg: [0 ms]
+GZip.1.sg
+GZip.1.sg: [0 ms]
+Gentee_Installer.1.sg
+Gentee_Installer.1.sg: [0 ms]
+Ghost_Installer.1.sg
+Ghost_Installer.1.sg: [0 ms]
+GkSetup.1.sg
+findString[/SFX]: 008a9e00 00 [0 ms]
+GkSetup.1.sg: [0 ms]
+Gremlin_patcher.1.sg
+Gremlin_patcher.1.sg: [0 ms]
+HTML_executable.1.sg
+HTML_executable.1.sg: [0 ms]
+Huan.1.sg
+Huan.1.sg: [0 ms]
+I-D_Media_installer.1.sg
+I-D_Media_installer.1.sg: [0 ms]
+IDM_Installer.1.sg
+IDM_Installer.1.sg: [0 ms]
+INFTool.1.sg
+INFTool.1.sg: [0 ms]
+INTENIUM.1.sg
+INTENIUM.1.sg: [0 ms]
+Inno_Setup_Module.1.sg
+Inno_Setup_Module.1.sg: [0 ms]
+Instalit.1.sg
+Instalit.1.sg: [0 ms]
+Install4j_installer.1.sg
+Install4j_installer.1.sg: [0 ms]
+InstallAnywhere.1.sg
+InstallAnywhere.1.sg: [0 ms]
+InstallShield.1.sg
+InstallShield.1.sg: [2 ms]
+InstallUs.1.sg
+InstallUs.1.sg: [0 ms]
+Install_Factory.1.sg
+Install_Factory.1.sg: [0 ms]
+Jar2exe.1.sg
+Jar2exe.1.sg: [0 ms]
+LucasArts_Update_Installer.1.sg
+LucasArts_Update_Installer.1.sg: [0 ms]
+Lyme_SFX.1.sg
+Lyme_SFX.1.sg: [0 ms]
+MP-ZipTool.1.sg
+MP-ZipTool.1.sg: [0 ms]
+MPQ.1.sg
+MPQ.1.sg: [0 ms]
+MicroJoiner.1.sg
+MicroJoiner.1.sg: [0 ms]
+Microsoft_Class_Installer.1.sg
+Microsoft_Class_Installer.1.sg: [0 ms]
+Microsoft_Compound-based_installer.1.sg
+Microsoft_Compound-based_installer.1.sg: [0 ms]
+Microsoft_dotNET_installer.1.sg
+Microsoft_dotNET_installer.1.sg: [0 ms]
+Miktex_Installer.1.sg
+Miktex_Installer.1.sg: [0 ms]
+Mioplanet_installer.1.sg
+Mioplanet_installer.1.sg: [0 ms]
+Multimedia_Fusion_Installer.1.sg
+Multimedia_Fusion_Installer.1.sg: [0 ms]
+N-Joiner.1.sg
+N-Joiner.1.sg: [0 ms]
+NOS_Installer.1.sg
+NOS_Installer.1.sg: [0 ms]
+NanoZip.1.sg
+NanoZip.1.sg: [0 ms]
+Nuitka.1.sg
+findString[__nuitka_version__]: 006eec00 00112c00 [1 ms]
+findString[NUITKA_ONEFILE_PARENT]: 006eec00 00112c00 [1 ms]
+Nuitka.1.sg: [2 ms]
+Nullsoft_Scriptable_Install_System.1.sg
+Nullsoft_Scriptable_Install_System.1.sg: [2 ms]
+O'Setup95.1.sg
+O'Setup95.1.sg: [0 ms]
+PCInstall.1.sg
+PCInstall.1.sg: [0 ms]
+PIMP.1.sg
+PIMP.1.sg: [0 ms]
+PKSFX.1.sg
+PKSFX.1.sg: [0 ms]
+PMaker.1.sg
+PMaker.1.sg: [0 ms]
+PackageForTheWeb.1.sg
+PackageForTheWeb.1.sg: [0 ms]
+Pantaray_QSetup.1.sg
+Pantaray_QSetup.1.sg: [0 ms]
+Paquet.1.sg
+Paquet.1.sg: [0 ms]
+Paquet_Builder.1.sg
+Paquet_Builder.1.sg: [0 ms]
+Patch.1.sg
+Patch.1.sg: [0 ms]
+PerlApp.1.sg
+PerlApp.1.sg: [0 ms]
+Power_Screen_Recorder.1.sg
+Power_Screen_Recorder.1.sg: [0 ms]
+Py2exe.1.sg
+Py2exe.1.sg: [0 ms]
+PyInstallerHider.1.sg
+findString[Failed to get address for PyUnicode_Join]: 006eec00 00112c00 [1 ms]
+findString[Failed to get address for PyImport_AddModule]: 006eec00 00112c00 [1 ms]
+PyInstallerHider.1.sg: [2 ms]
+Quantum.1.sg
+Quantum.1.sg: [0 ms]
+RJoiner.1.sg
+RJoiner.1.sg: [0 ms]
+RNsetup.1.sg
+RNsetup.1.sg: [0 ms]
+RPP.1.sg
+RPP.1.sg: [0 ms]
+RTPatch.1.sg
+RTPatch.1.sg: [0 ms]
+SCE_installer.1.sg
+SCE_installer.1.sg: [0 ms]
+SFXRun.1.sg
+SFXRun.1.sg: [0 ms]
+STATICSUP.1.sg
+STATICSUP.1.sg: [0 ms]
+SZDD.1.sg
+SZDD.1.sg: [0 ms]
+Setup-Specialist.1.sg
+Setup-Specialist.1.sg: [0 ms]
+Setup_Factory.1.sg
+Setup_Factory.1.sg: [0 ms]
+SfxCA.1.sg
+SfxCA.1.sg: [0 ms]
+Smart_Install_Maker.1.sg
+Smart_Install_Maker.1.sg: [0 ms]
+Softlocx.1.sg
+Softlocx.1.sg: [0 ms]
+Sony_Windows_Installer.1.sg
+Sony_Windows_Installer.1.sg: [0 ms]
+Spoon_Installer.1.sg
+Spoon_Installer.1.sg: [0 ms]
+Squeez_SFX.1.sg
+Squeez_SFX.1.sg: [0 ms]
+Squirrel_installer.1.sg
+Squirrel_installer.1.sg: [0 ms]
+Store_Installer.1.sg
+Store_Installer.1.sg: [0 ms]
+SwiftView_installer.1.sg
+SwiftView_installer.1.sg: [0 ms]
+Synactis_In-The-Box_Installer.1.sg
+Synactis_In-The-Box_Installer.1.sg: [0 ms]
+Tarma_Installer.1.sg
+Tarma_Installer.1.sg: [0 ms]
+TrueCrypt-VeraCrypt_installer.1.sg
+TrueCrypt-VeraCrypt_installer.1.sg: [0 ms]
+UFI_installer.1.sg
+UFI_installer.1.sg: [0 ms]
+VbsToExe.1.sg
+VbsToExe.1.sg: [0 ms]
+Vise.1.sg
+Vise.1.sg: [0 ms]
+WiX_Toolset_installer.1.sg
+WiX_Toolset_installer.1.sg: [0 ms]
+Wibu_Codemeter.1.sg
+Wibu_Codemeter.1.sg: [0 ms]
+WinACE.1.sg
+WinACE.1.sg: [0 ms]
+WinIMP.1.sg
+WinIMP.1.sg: [0 ms]
+WinImage.1.sg
+WinImage.1.sg: [0 ms]
+WinPatch.1.sg
+WinPatch.1.sg: [0 ms]
+WinRAR.1.sg
+WinRAR.1.sg: [0 ms]
+WinRAR_Installer.1.sg
+WinRAR_Installer.1.sg: [0 ms]
+WinZip.1.sg
+WinZip.1.sg: [0 ms]
+Winamp_Installer.1.sg
+Winamp_Installer.1.sg: [0 ms]
+Windows_Installer.1.sg
+Windows_Installer.1.sg: [0 ms]
+Wise_Installer.1.sg
+Wise_Installer.1.sg: [0 ms]
+Xoreax_installer.1.sg
+Xoreax_installer.1.sg: [0 ms]
+ZipCentral_SFX.1.sg
+ZipCentral_SFX.1.sg: [0 ms]
+_simpleNetAntivirus.1.sg
+_simpleNetAntivirus.1.sg: [0 ms]
+dUP.1.sg
+dUP.1.sg: [0 ms]
+distutils.1.sg
+distutils.1.sg: [0 ms]
+inPEct.1.sg
+inPEct.1.sg: [0 ms]
+keygens.1.sg
+keygens.1.sg: [0 ms]
+rar.1.sg
+rar.1.sg: [0 ms]
+sqx.1.sg
+sqx.1.sg: [0 ms]
+32Lite.2.sg
+32Lite.2.sg: [0 ms]
+ACProtect.2.sg
+ACProtect.2.sg: [0 ms]
+AHTeam_EP_Protector.2.sg
+AHTeam_EP_Protector.2.sg: [0 ms]
+AHpacker.2.sg
+AHpacker.2.sg: [0 ms]
+ANDpakk.2.sg
+ANDpakk.2.sg: [0 ms]
+ARM_Protector.2.sg
+ARM_Protector.2.sg: [0 ms]
+ASDPack.2.sg
+ASDPack.2.sg: [0 ms]
+ASM_Guard.2.sg
+ASM_Guard.2.sg: [0 ms]
+ASPR_Stripper.2.sg
+ASPR_Stripper.2.sg: [0 ms]
+ASPack.2.sg
+ASPack.2.sg: [0 ms]
+ASProtect.2.sg
+ASProtect.2.sg: [0 ms]
+AT4RE_Protector.2.sg
+AT4RE_Protector.2.sg: [0 ms]
+AZProtect_0001.2.sg
+AZProtect_0001.2.sg: [0 ms]
+Aase_Crypter.2.sg
+Aase_Crypter.2.sg: [0 ms]
+ActiveMark.2.sg
+ActiveMark.2.sg: [0 ms]
+Advanced_BAT_to_EXE_converter.2.sg
+Advanced_BAT_to_EXE_converter.2.sg: [0 ms]
+Agile.2.sg
+Agile.2.sg: [0 ms]
+Alex_Protector.2.sg
+Alex_Protector.2.sg: [0 ms]
+Amber.2.sg
+Amber.2.sg: [0 ms]
+Anskya_Binder.2.sg
+Anskya_Binder.2.sg: [0 ms]
+Anskya_NTPacker_Generator.2.sg
+Anskya_NTPacker_Generator.2.sg: [0 ms]
+AntiDote.2.sg
+AntiDote.2.sg: [0 ms]
+Anticrack_Software_Protector.2.sg
+Anticrack_Software_Protector.2.sg: [0 ms]
+App_Encryptor.2.sg
+App_Encryptor.2.sg: [0 ms]
+ArmDot.2.sg
+ArmDot.2.sg: [0 ms]
+Armadillo.2.sg
+Armadillo.2.sg: [0 ms]
+AssemblyInvoke.2.sg
+AssemblyInvoke.2.sg: [0 ms]
+AtomPePacker.2.sg
+AtomPePacker.2.sg: [0 ms]
+AverCryptor.2.sg
+AverCryptor.2.sg: [0 ms]
+BJFnt.2.sg
+BJFnt.2.sg: [0 ms]
+BatToExeConverter.2.sg
+BatToExeConverter.2.sg: [0 ms]
+BatchToApp.2.sg
+BatchToApp.2.sg: [0 ms]
+BattleshipCrypter.2.sg
+BattleshipCrypter.2.sg: [0 ms]
+BeRo.2.sg
+BeRo.2.sg: [0 ms]
+Berio.2.sg
+Berio.2.sg: [0 ms]
+BitShape_PE_Crypt.2.sg
+BitShape_PE_Crypt.2.sg: [0 ms]
+BlindSpot.2.sg
+BlindSpot.2.sg: [0 ms]
+Break_Into_Pattern.2.sg
+Break_Into_Pattern.2.sg: [0 ms]
+ByfronTech.2.sg
+ByfronTech.2.sg: [0 ms]
+ByteGuard.2.sg
+ByteGuard.2.sg: [0 ms]
+CExe.2.sg
+CExe.2.sg: [0 ms]
+CICompress.2.sg
+CICompress.2.sg: [0 ms]
+Cameyo.2.sg
+Cameyo.2.sg: [0 ms]
+CliSecure.2.sg
+CliSecure.2.sg: [0 ms]
+CodeCrypt.2.sg
+CodeCrypt.2.sg: [0 ms]
+CodeSafe.2.sg
+CodeSafe.2.sg: [0 ms]
+CodeVeil.2.sg
+CodeVeil.2.sg: [0 ms]
+Code_Virtualizer.2.sg
+Code_Virtualizer.2.sg: [0 ms]
+Codewall.2.sg
+Codewall.2.sg: [0 ms]
+CoffeeCup_SFX.2.sg
+CoffeeCup_SFX.2.sg: [0 ms]
+Confuser.2.sg
+Confuser.2.sg: [0 ms]
+CopyMinder.2.sg
+CopyMinder.2.sg: [0 ms]
+Crinkler.2.sg
+Crinkler.2.sg: [0 ms]
+Crunch.2.sg
+Crunch.2.sg: [0 ms]
+CrypKey.2.sg
+CrypKey.2.sg: [0 ms]
+CrypToCrack_Pe_Protector.2.sg
+CrypToCrack_Pe_Protector.2.sg: [0 ms]
+Cryptic.2.sg
+Cryptic.2.sg: [0 ms]
+CryptoObfuscator.2.sg
+CryptoObfuscator.2.sg: [0 ms]
+DBPE.2.sg
+DBPE.2.sg: [0 ms]
+DNGuard.2.sg
+DNGuard.2.sg: [0 ms]
+DYAMAR.2.sg
+DYAMAR.2.sg: [0 ms]
+DZA_Patcher.2.sg
+DZA_Patcher.2.sg: [0 ms]
+Daemon_Protect.2.sg
+Daemon_Protect.2.sg: [0 ms]
+DalKrypt.2.sg
+DalKrypt.2.sg: [0 ms]
+DeepSea.2.sg
+DeepSea.2.sg: [0 ms]
+DelZip_SFX.2.sg
+DelZip_SFX.2.sg: [0 ms]
+Denuvo.2.sg
+Denuvo.2.sg: [0 ms]
+Ding_Boys_PE-lock_Phantasm.2.sg
+Ding_Boys_PE-lock_Phantasm.2.sg: [0 ms]
+DotFix_Nice_Protect.2.sg
+DotFix_Nice_Protect.2.sg: [0 ms]
+Dotfuscator.2.sg
+Dotfuscator.2.sg: [0 ms]
+Duals_eXe_Encryptor.2.sg
+Duals_eXe_Encryptor.2.sg: [0 ms]
+DxPack.2.sg
+DxPack.2.sg: [0 ms]
+ENIGMA.2.sg
+ENIGMA.2.sg: [0 ms]
+EXE32Pack.2.sg
+EXE32Pack.2.sg: [0 ms]
+EXECryptor.2.sg
+EXECryptor.2.sg: [0 ms]
+EXEFog.2.sg
+find_signature[6545c2fb195bbd004040ebef9155f0401897db0024e8e80000008387202e87d17820fb1cb800b0ef0b000000848e]: 005d23f3 1000 [0 ms]
+EXEFog.2.sg: [0 ms]
+EXE_Password_Protector.2.sg
+EXE_Password_Protector.2.sg: [0 ms]
+Eazfuscator.2.sg
+Eazfuscator.2.sg: [0 ms]
+ElecKey.2.sg
+ElecKey.2.sg: [0 ms]
+Enigma_Virtual_Box.2.sg
+Enigma_Virtual_Box.2.sg: [0 ms]
+Escargot.2.sg
+Escargot.2.sg: [0 ms]
+ExE_Pack.2.sg
+ExE_Pack.2.sg: [0 ms]
+ExeStealth.2.sg
+ExeStealth.2.sg: [0 ms]
+Exe_Guarder.2.sg
+Exe_Guarder.2.sg: [0 ms]
+Exe_Locker.2.sg
+Exe_Locker.2.sg: [0 ms]
+Exe_Shield.2.sg
+Exe_Shield.2.sg: [0 ms]
+FSG.2.sg
+FSG.2.sg: [0 ms]
+FileSplit_Self-Merger.2.sg
+FileSplit_Self-Merger.2.sg: [0 ms]
+FishPE_Shield.2.sg
+FishPE_Shield.2.sg: [0 ms]
+Fish_PE.2.sg
+Fish_PE.2.sg: [0 ms]
+FixupPak.2.sg
+FixupPak.2.sg: [0 ms]
+Fusion.2.sg
+Fusion.2.sg: [0 ms]
+G!X_Protector.2.sg
+G!X_Protector.2.sg: [0 ms]
+GameGuard.2.sg
+GameGuard.2.sg: [0 ms]
+Goats_PE_Mutilator.2.sg
+Goats_PE_Mutilator.2.sg: [0 ms]
+Goliath.2.sg
+Goliath.2.sg: [0 ms]
+HASP.2.sg
+HASP.2.sg: [0 ms]
+HASP_HL_Protection.2.sg
+HASP_HL_Protection.2.sg: [0 ms]
+HackShield.2.sg
+findString[TerminateHackShield]: 006eec00 2048 [0 ms]
+HackShield.2.sg: [0 ms]
+Hide&Protect.2.sg
+Hide&Protect.2.sg: [0 ms]
+HidePE.2.sg
+HidePE.2.sg: [0 ms]
+HyperTech_Crackproof.2.sg
+HyperTech_Crackproof.2.sg: [0 ms]
+ID_Application_Protector(NoNamePacker).2.sg
+ID_Application_Protector(NoNamePacker).2.sg: [0 ms]
+ILProtector.2.sg
+ILProtector.2.sg: [0 ms]
+ILUCRYPT.2.sg
+ILUCRYPT.2.sg: [0 ms]
+IMPostor_Pack.2.sg
+IMPostor_Pack.2.sg: [0 ms]
+INCrypter.2.sg
+INCrypter.2.sg: [0 ms]
+IProtect.2.sg
+IProtect.2.sg: [0 ms]
+Inquartos_Obfuscator.2.sg
+Inquartos_Obfuscator.2.sg: [0 ms]
+Intel_IPP.sg
+Intel_IPP.sg: [0 ms]
+IntelliProtector.2.sg
+IntelliProtector.2.sg: [0 ms]
+InxObfuscator.2.sg
+InxObfuscator.2.sg: [0 ms]
+JDPack.2.sg
+JDPack.2.sg: [0 ms]
+KBys_Packer.2.sg
+KBys_Packer.2.sg: [0 ms]
+KGCrypt.2.sg
+KGCrypt.2.sg: [0 ms]
+KRZIP_SFX.2.sg
+KRZIP_SFX.2.sg: [0 ms]
+KoiVM.2.sg
+KoiVM.2.sg: [0 ms]
+Kryptonit.2.sg
+Kryptonit.2.sg: [0 ms]
+LARP.2.sg
+LARP.2.sg: [0 ms]
+LDK.2.sg
+LDK.2.sg: [0 ms]
+LameCrypt.2.sg
+LameCrypt.2.sg: [0 ms]
+Laserlok.2.sg
+Laserlok.2.sg: [0 ms]
+LimeCrypter.2.sg
+LimeCrypter.2.sg: [0 ms]
+MEW.2.sg
+MEW.2.sg: [0 ms]
+MPRESS.2.sg
+MPRESS.2.sg: [0 ms]
+MSLRH.2.sg
+MSLRH.2.sg: [0 ms]
+MZ-Crypt.2.sg
+MZ-Crypt.2.sg: [0 ms]
+MZ0oPE.2.sg
+MZ0oPE.2.sg: [0 ms]
+MaskPE.2.sg
+MaskPE.2.sg: [0 ms]
+Maxtocode.2.sg
+Maxtocode.2.sg: [0 ms]
+Metrowerks_CodeWarrior.2.sg
+Metrowerks_CodeWarrior.2.sg: [0 ms]
+Microsoft_Warbird.2.sg
+Microsoft_Warbird.2.sg: [0 ms]
+Minke.2.sg
+Minke.2.sg: [0 ms]
+MoleBox.2.sg
+MoleBox.2.sg: [0 ms]
+Morphnah.2.sg
+Morphnah.2.sg: [0 ms]
+Mystic_Compressor.2.sg
+Mystic_Compressor.2.sg: [0 ms]
+N-Joy.2.sg
+N-Joy.2.sg: [0 ms]
+Babel_.NET.2.sg
+Babel_.NET.2.sg: [0 ms]
+LDK_.NET.2.sg
+LDK_.NET.2.sg: [0 ms]
+FISH_.NET.2.sg
+FISH_.NET.2.sg: [0 ms]
+NETZ.2.sg
+NETZ.2.sg: [0 ms]
+NET_Spider.2.sg
+NET_Spider.2.sg: [0 ms]
+NOS_Packer.2.sg
+NOS_Packer.2.sg: [0 ms]
+NTShell.2.sg
+NTShell.2.sg: [0 ms]
+NTkrnl_Protector.2.sg
+NTkrnl_Protector.2.sg: [0 ms]
+NakedPacker.2.sg
+NakedPacker.2.sg: [0 ms]
+NativeCryptor_by_DosX.2.sg
+NativeCryptor_by_DosX.2.sg: [0 ms]
+Native_UD_Packer.2.sg
+Native_UD_Packer.2.sg: [0 ms]
+NeoLite.2.sg
+NeoLite.2.sg: [0 ms]
+NetReactor.2.sg
+NetReactor.2.sg: [0 ms]
+NetShieldProtector.2.sg
+NetShieldProtector.2.sg: [0 ms]
+Ningishzida.2.sg
+Ningishzida.2.sg: [0 ms]
+NodeJS_Nexe.sg
+NodeJS_Nexe.sg: [0 ms]
+NodeJS_Pkg.sg
+NodeJS_Pkg.sg: [0 ms]
+Obfuscator_.NET_2009.2.sg
+Obfuscator_.NET_2009.2.sg: [0 ms]
+NoobyProtect.2.sg
+NoobyProtect.2.sg: [0 ms]
+North_Star_PE_Shrinker.2.sg
+North_Star_PE_Shrinker.2.sg: [0 ms]
+NsPacK.2.sg
+NsPacK.2.sg: [0 ms]
+ORiEN.2.sg
+ORiEN.2.sg: [0 ms]
+Obfuscar.2.sg
+Obfuscar.2.sg: [0 ms]
+Obsidium.2.sg
+Obsidium.2.sg: [0 ms]
+OneVM.2.sg
+OneVM.2.sg: [0 ms]
+Oreans_CodeVirtualizer.2.sg
+Oreans_CodeVirtualizer.2.sg: [0 ms]
+OxiJoiner.sg
+OxiJoiner.sg: [0 ms]
+PACE.2.sg
+PACE.2.sg: [0 ms]
+PACKWIN.2.sg
+PACKWIN.2.sg: [0 ms]
+PCShrink.2.sg
+PCShrink.2.sg: [0 ms]
+PC_Guard.2.sg
+PC_Guard.2.sg: [0 ms]
+PE-Admin.2.sg
+PE-Admin.2.sg: [0 ms]
+PE-Armor.2.sg
+PE-Armor.2.sg: [0 ms]
+PE-Shield.2.sg
+PE-Shield.2.sg: [0 ms]
+PEBundle.2.sg
+PEBundle.2.sg: [0 ms]
+PECRYPT32.2.sg
+PECRYPT32.2.sg: [0 ms]
+PECompact.2.sg
+PECompact.2.sg: [0 ms]
+PELock.2.sg
+PELock.2.sg: [130 ms]
+PESpin.2.sg
+PESpin.2.sg: [0 ms]
+PETetris.sg
+PETetris.sg: [0 ms]
+PEUnion.2.sg
+PEUnion.2.sg: [0 ms]
+PE_Diminisher.2.sg
+PE_Diminisher.2.sg: [0 ms]
+PE_Encrypt.2.sg
+PE_Encrypt.2.sg: [0 ms]
+PE_Intro.2.sg
+PE_Intro.2.sg: [0 ms]
+PE_Lock_NT.2.sg
+PE_Lock_NT.2.sg: [0 ms]
+PE_Password.2.sg
+PE_Password.2.sg: [0 ms]
+PE_Protect.2.sg
+PE_Protect.2.sg: [0 ms]
+PEncrypt.2.sg
+PEncrypt.2.sg: [0 ms]
+PEnguinCrypt.2.sg
+PEnguinCrypt.2.sg: [0 ms]
+PKLITE.2.sg
+PKLITE.2.sg: [0 ms]
+PUNiSHER.2.sg
+PUNiSHER.2.sg: [0 ms]
+Pack_Master.2.sg
+Pack_Master.2.sg: [0 ms]
+Packanoid.2.sg
+Packanoid.2.sg: [0 ms]
+Packman.2.sg
+Packman.2.sg: [0 ms]
+PePack.2.sg
+PePack.2.sg: [0 ms]
+PeX.2.sg
+PeX.2.sg: [0 ms]
+Pe_Ninja.2.sg
+Pe_Ninja.2.sg: [0 ms]
+Petite.2.sg
+Petite.2.sg: [0 ms]
+Phoenix.2.sg
+Phoenix.2.sg: [0 ms]
+Photo_Compiler.2.sg
+Photo_Compiler.2.sg: [0 ms]
+Private_EXE_Protector.2.sg
+find_signature[b900000000f3ae]: 005d23f3 0b00 [0 ms]
+find_signature[b900000000f366]: 005d23f3 0b00 [0 ms]
+Private_EXE_Protector.2.sg: [0 ms]
+PwdProtect.2.sg
+PwdProtect.2.sg: [0 ms]
+PyInstaller.2.sg
+find_signature[00 00 ?? ** 70 79 74 68 6F 6E'2'** ** ** ** ?? ?? ?? 00 00 00 00 00 00 00 00 00 0000 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00]: 008a9e00 00 [0 ms]
+findString[.]: ffffffffffffffff 0f [0 ms]
+find_signature[00 00 ?? ** 70 79 74 68 6F 6E'3'** ** ** ** ?? ?? ?? 00 00 00 00 00 00 00 00 00 0000 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00]: 008a9e00 00 [0 ms]
+findString[.]: ffffffffffffffff 0f [0 ms]
+PyInstaller.2.sg: [0 ms]
+QuestPowerGUI.2.sg
+QuestPowerGUI.2.sg: [0 ms]
+QuickBFC.2.sg
+QuickBFC.2.sg: [0 ms]
+QuickPack_NT.2.sg
+QuickPack_NT.2.sg: [0 ms]
+RCryptor.2.sg
+RCryptor.2.sg: [0 ms]
+RDG_Tejon_Crypter.2.sg
+RDG_Tejon_Crypter.2.sg: [0 ms]
+RLP.2.sg
+RLP.2.sg: [0 ms]
+RLPack.2.sg
+RLPack.2.sg: [0 ms]
+ReNET-pack.2.sg
+ReNET-pack.2.sg: [0 ms]
+RobustObfuscator.2.sg
+RobustObfuscator.2.sg: [0 ms]
+SC_Obfuscator.2.sg
+SC_Obfuscator.2.sg: [0 ms]
+SC_Pack.2.sg
+SC_Pack.2.sg: [0 ms]
+SDProtector.2.sg
+SDProtector.2.sg: [0 ms]
+SLVc0deProtector.2.sg
+SLVc0deProtector.2.sg: [0 ms]
+STUD.2.sg
+STUD.2.sg: [0 ms]
+SVK_Protector.2.sg
+SVK_Protector.2.sg: [0 ms]
+Safedisc.2.sg
+Safedisc.2.sg: [0 ms]
+Safenet_RMS.2.sg
+Safenet_RMS.2.sg: [0 ms]
+Safengine_Shielden.2.sg
+Safengine_Shielden.2.sg: [0 ms]
+SecuPack.2.sg
+SecuPack.2.sg: [0 ms]
+SecuROM.2.sg
+SecuROM.2.sg: [0 ms]
+Secure_Shade.2.sg
+Secure_Shade.2.sg: [0 ms]
+DS.Sentinel_SuperPro.2.sg
+DS.Sentinel_SuperPro.2.sg: [0 ms]
+SerGreen_Appacker.2.sg
+SerGreen_Appacker.2.sg: [0 ms]
+Shrink_Wrap.2.sg
+Shrink_Wrap.2.sg: [0 ms]
+Shrinker.2.sg
+Shrinker.2.sg: [0 ms]
+SimbiOZ.2.sg
+SimbiOZ.2.sg: [0 ms]
+SimplePackerByEronana.2.sg
+SimplePackerByEronana.2.sg: [0 ms]
+Simple_Pack.2.sg
+Simple_Pack.2.sg: [0 ms]
+Sixxpack.2.sg
+Sixxpack.2.sg: [0 ms]
+Skater.2.sg
+Skater.2.sg: [0 ms]
+Smart_Assembly.2.sg
+Smart_Assembly.2.sg: [0 ms]
+SmokesCrypt.2.sg
+SmokesCrypt.2.sg: [0 ms]
+SoftProtect.2.sg
+SoftProtect.2.sg: [0 ms]
+SoftSentry.2.sg
+SoftSentry.2.sg: [0 ms]
+Soft_Defender.2.sg
+Soft_Defender.2.sg: [0 ms]
+Software_Compress.2.sg
+Software_Compress.2.sg: [0 ms]
+Special_EXE_Password_Protector.2.sg
+Special_EXE_Password_Protector.2.sg: [0 ms]
+SpicesNet.2.sg
+SpicesNet.2.sg: [0 ms]
+Spoon_Studio.2.sg
+Spoon_Studio.2.sg: [0 ms]
+Squishy.2.sg
+Squishy.2.sg: [0 ms]
+StarForce.2.sg
+StarForce.2.sg: [0 ms]
+Ste@lth_PE.2.sg
+find_signature[ba........b8........8902424242b8........89024a4a4affd2]: 008a9dc0 40 [0 ms]
+find_signature[b8........ba........8910404040ba........891048484850c3]: 008a9dc0 40 [0 ms]
+Ste@lth_PE.2.sg: [0 ms]
+Stones_PE_Encryptor.2.sg
+Stones_PE_Encryptor.2.sg: [0 ms]
+TPP_Pack.2.sg
+TPP_Pack.2.sg: [0 ms]
+Tages.2.sg
+Tages.2.sg: [0 ms]
+TheArk.2.sg
+TheArk.2.sg: [0 ms]
+Themida.2.sg
+Themida.2.sg: [0 ms]
+Thinstall.2.sg
+Thinstall.2.sg: [0 ms]
+UG2002_Cruncher.2.sg
+UG2002_Cruncher.2.sg: [0 ms]
+UPX.2.sg
+findString[$Id: UPX ]: 00 0400 [0 ms]
+findString[UPX!]: 00 0400 [0 ms]
+UPX.2.sg: [0 ms]
+UPXFreak.2.sg
+UPXFreak.2.sg: [0 ms]
+UPX_Inliner.2.sg
+UPX_Inliner.2.sg: [0 ms]
+UPX_Modifier.2.sg
+UPX_Modifier.2.sg: [0 ms]
+UPX_Mutanter.2.sg
+UPX_Mutanter.2.sg: [0 ms]
+UPX_Protector.2.sg
+UPX_Protector.2.sg: [0 ms]
+UPX_lock.2.sg
+UPX_lock.2.sg: [0 ms]
+UPX_scrambler.2.sg
+UPX_scrambler.2.sg: [0 ms]
+UPX_shit.2.sg
+UPX_shit.2.sg: [0 ms]
+UPXcrypter.2.sg
+UPXcrypter.2.sg: [0 ms]
+UPolyX.2.sg
+UPolyX.2.sg: [0 ms]
+UltraPro.2.sg
+UltraPro.2.sg: [0 ms]
+UnoPiX.2.sg
+UnoPiX.2.sg: [0 ms]
+VBox.2.sg
+VBox.2.sg: [0 ms]
+VCasm-Protector.2.sg
+VCasm-Protector.2.sg: [0 ms]
+VMProtect.2.sg
+VMProtect.2.sg: [1 ms]
+VMProtect_NET.2.sg
+VMProtect_NET.2.sg: [0 ms]
+VPacker.2.sg
+VPacker.2.sg: [0 ms]
+VaySoft_PDF2EXE.2.sg
+VaySoft_PDF2EXE.2.sg: [0 ms]
+VbsToExeConverter.2.sg
+VbsToExeConverter.2.sg: [0 ms]
+Virbox.2.sg
+Virbox.2.sg: [0 ms]
+NecroVM.Virt.2.sg
+NecroVM.Virt.2.sg: [0 ms]
+WWPACK.2.sg
+WWPACK.2.sg: [0 ms]
+WinUpack.2.sg
+WinUpack.2.sg: [0 ms]
+Wind_of_Crypt.2.sg
+Wind_of_Crypt.2.sg: [0 ms]
+XCR.2.sg
+XCR.2.sg: [0 ms]
+XComp.2.sg
+XComp.2.sg: [0 ms]
+XPACK.2.sg
+XPACK.2.sg: [0 ms]
+Xenocode_Postbuild.2.sg
+Xenocode_Postbuild.2.sg: [0 ms]
+XerinFuscator.2.sg
+XerinFuscator.2.sg: [0 ms]
+Xtreamlok.2.sg
+Xtreamlok.2.sg: [0 ms]
+Yano.2.sg
+Yano.2.sg: [0 ms]
+Yodas_Crypter.2.sg
+Yodas_Crypter.2.sg: [0 ms]
+Yodas_Protector.2.sg
+Yodas_Protector.2.sg: [0 ms]
+Yummy_Game_SoftwareShield.2.sg
+Yummy_Game_SoftwareShield.2.sg: [0 ms]
+Zip_SFX.2.sg
+Zip_SFX.2.sg: [0 ms]
+Zprotect.2.sg
+Zprotect.2.sg: [0 ms]
+aPack.2.sg
+aPack.2.sg: [0 ms]
+beria.2.sg
+beria.2.sg: [0 ms]
+dePACK.2.sg
+dePACK.2.sg: [0 ms]
+eXPressor.2.sg
+eXPressor.2.sg: [0 ms]
+ezip.2.sg
+ezip.2.sg: [0 ms]
+hmimys_PE-Pack.2.sg
+hmimys_PE-Pack.2.sg: [0 ms]
+hmimys_Protect.2.sg
+hmimys_Protect.2.sg: [0 ms]
+iPB_Protect.2.sg
+iPB_Protect.2.sg: [0 ms]
+kkrunchy.2.sg
+kkrunchy.2.sg: [0 ms]
+mPack.2.sg
+mPack.2.sg: [0 ms]
+mkfPack.2.sg
+mkfPack.2.sg: [0 ms]
+nPack.2.sg
+nPack.2.sg: [0 ms]
+netshrink.2.sg
+netshrink.2.sg: [0 ms]
+ps2exe.2.sg
+ps2exe.2.sg: [0 ms]
+scr2exe.2.sg
+scr2exe.2.sg: [0 ms]
+tElock.2.sg
+tElock.2.sg: [0 ms]
+yzPack.2.sg
+yzPack.2.sg: [0 ms]
+AutoHotKey.3.sg
+AutoHotKey.3.sg: [2 ms]
+AutoIt.3.sg
+AutoIt.3.sg: [0 ms]
+ElectronApp.3.sg
+ElectronApp.3.sg: [0 ms]
+Fox_Pro.3.sg
+findString[VisualFoxProRuntime.]: 0400 0200 [0 ms]
+findString[VisualFoxProRuntime.]: 006eec00 0200 [0 ms]
+findString[VisualFoxProRuntime.]: 00801800 0200 [0 ms]
+findString[VisualFoxProRuntime.]: 00820c00 0200 [0 ms]
+findString[VisualFoxProRuntime.]: 00848000 0200 [0 ms]
+Fox_Pro.3.sg: [0 ms]
+GoldSrc.3.sg
+findString[VENGINE_]: 00801800 0001f400 [0 ms]
+findString[VFileSystem]: 00801800 0001f400 [0 ms]
+findString[_API_VERSION]: 00801800 0001f400 [0 ms]
+GoldSrc.3.sg: [0 ms]
+Perl.3.sg
+Perl.3.sg: [0 ms]
+Python.3.sg
+Python.3.sg: [0 ms]
+Wine.3.sg
+Wine.3.sg: [0 ms]
+Xash.3.sg
+findString[Xash Error]: 00801800 0001f400 [0 ms]
+Xash.3.sg: [0 ms]
+Xojo.3.sg
+Xojo.3.sg: [0 ms]
+java.3.sg
+java.3.sg: [0 ms]
+7z.4.sg
+7z.4.sg: [0 ms]
+AMD_FSR.4.sg
+AMD_FSR.4.sg: [0 ms]
+BeRo_Tiny_Pascal.4.sg
+BeRo_Tiny_Pascal.4.sg: [0 ms]
+Borland_C++.4.sg
+isSignaturePresent['Borland C++ - Copyright']: 006eec00 0400 [0 ms]
+Borland_C++.4.sg: [0 ms]
+CUDA-Driver.4.sg
+CUDA-Driver.4.sg: [0 ms]
+Chromium_Embedded_Framework.4.sg
+Chromium_Embedded_Framework.4.sg: [0 ms]
+Chromium_WebView.4.sg
+Chromium_WebView.4.sg: [0 ms]
+Cygwin32.4.sg
+Cygwin32.4.sg: [0 ms]
+DECFortran.4.sg
+findString[DEC Fortran RTL Message Catalog]: 00801800 0001f400 [0 ms]
+DECFortran.4.sg: [0 ms]
+DMD.4.sg
+find_signature['core.sys.windows.dll']: 006eec00 00112c00 [1 ms]
+DMD.4.sg: [1 ms]
+Delphi.4.sg
+find_signature[07'Boolean']: 0400 64 [0 ms]
+find_signature[06'String']: 0400 64 [0 ms]
+find_signature[FF25........8BC0FF25........8BC0]: 0400 0100 [0 ms]
+find_signature[0708'TControl']: 0400 006ee800 [7 ms]
+findString[Borland\Delphi]: 0400 006ee800 [6 ms]
+Delphi.4.sg: [14 ms]
+Direct2D.4.sg
+Direct2D.4.sg: [0 ms]
+Direct3D.4.sg
+Direct3D.4.sg: [0 ms]
+DirectX.4.sg
+DirectX.4.sg: [0 ms]
+Excelsior_JET.4.sg
+Excelsior_JET.4.sg: [0 ms]
+FASM.4.sg
+FASM.4.sg: [0 ms]
+Costura.Fody.4.sg
+Costura.Fody.4.sg: [0 ms]
+Free_Basic.4.sg
+Free_Basic.4.sg: [0 ms]
+Free_Pascal.4.sg
+findString[FPC ]: 0081fbdc 1024 [0 ms]
+Free_Pascal.4.sg: [0 ms]
+Go.4.sg
+isSignatureInSectionPresent[ff20'Go build ID: ']: 0  [95 ms]
+findString[ Go buildinf:]: 00 008a9e00 [8 ms]
+Go.4.sg: [104 ms]
+Intel_C.4.sg
+Intel_C.4.sg: [0 ms]
+JScript.4.sg
+JScript.4.sg: [0 ms]
+Newtonsoft.Json.4.sg
+Newtonsoft.Json.4.sg: [0 ms]
+WF.Krypton.4.sg
+WF.Krypton.4.sg: [0 ms]
+LCC-Win32.4.sg
+LCC-Win32.4.sg: [0 ms]
+Lahey_Fortran_90.4.sg
+Lahey_Fortran_90.4.sg: [0 ms]
+Lua_Runtime.4.sg
+Lua_Runtime.4.sg: [0 ms]
+WF_WPF.MaterialSkin.4.sg
+WF_WPF.MaterialSkin.4.sg: [0 ms]
+WF.MetroFramework.4.sg
+WF.MetroFramework.4.sg: [0 ms]
+Microsoft_C_Runtime.4.sg
+Microsoft_C_Runtime.4.sg: [0 ms]
+Microsoft_Edge_WebView.4.sg
+Microsoft_Edge_WebView.4.sg: [0 ms]
+Microsoft_NET_Runtime.4.sg
+Microsoft_NET_Runtime.4.sg: [0 ms]
+MinGW.4.sg
+MinGW.4.sg: [0 ms]
+Nim.4.sg
+findString[io.nim]: 006eec00 00112c00 [1 ms]
+findString[fatal.nim]: 006eec00 00112c00 [1 ms]
+Nim.4.sg: [2 ms]
+DS.Novex_dongle.4.sg
+findString[\\.\NVKEY]: 00 008a9e00 [8 ms]
+DS.Novex_dongle.4.sg: [9 ms]
+Nvidia_DLSS.4.sg
+isSignaturePresent[%% 'DLSS' %%]: 006eec00 00112c00 [1 ms]
+Nvidia_DLSS.4.sg: [1 ms]
+Nvidia_PhysX.4.sg
+Nvidia_PhysX.4.sg: [0 ms]
+OpenAL.4.sg
+OpenAL.4.sg: [0 ms]
+OpenCL.4.sg
+OpenCL.4.sg: [0 ms]
+OpenGL.4.sg
+OpenGL.4.sg: [0 ms]
+OpenSSL.4.sg
+OpenSSL.4.sg: [0 ms]
+Pelles_C.4.sg
+Pelles_C.4.sg: [0 ms]
+PowerBASIC.4.sg
+PowerBASIC.4.sg: [0 ms]
+PureBasic.4.sg
+PureBasic.4.sg: [0 ms]
+Qt.4.sg
+findString[QWidget]: 006eec00 00112c00 [1 ms]
+Qt.4.sg: [1 ms]
+DS.RLM.4.sg
+findString[Reprise License Manager (RLM)]: 00 008a9e00 [10 ms]
+DS.RLM.4.sg: [10 ms]
+RealBasic.4.sg
+RealBasic.4.sg: [0 ms]
+RosASM.4.sg
+RosASM.4.sg: [0 ms]
+Rust.4.sg
+Rust.4.sg: [0 ms]
+ScriptHookV.4.sg
+ScriptHookV.4.sg: [0 ms]
+SpASM.4.sg
+SpASM.4.sg: [0 ms]
+Steam.4.sg
+Steam.4.sg: [0 ms]
+WF.Guna.UI2.4.sg
+WF.Guna.UI2.4.sg: [0 ms]
+Virtual_Pascal.4.sg
+Virtual_Pascal.4.sg: [0 ms]
+Visual_Objects.4.sg
+Visual_Objects.4.sg: [0 ms]
+Visual_Prolog.4.sg
+Visual_Prolog.4.sg: [0 ms]
+Vulkan.4.sg
+Vulkan.4.sg: [0 ms]
+Watcom.4.sg
+findString[watcom]: 005d23f3 20 [0 ms]
+Watcom.4.sg: [0 ms]
+Xbase.4.sg
+Xbase.4.sg: [0 ms]
+Zig.4.sg
+Zig.4.sg: [0 ms]
+Zydis.4.sg
+Zydis.4.sg: [0 ms]
+_NetCompilersLibs.4.sg
+_NetCompilersLibs.4.sg: [0 ms]
+curl.4.sg
+curl.4.sg: [0 ms]
+gcc.4.sg
+gcc.4.sg: [0 ms]
+ldc.4.sg
+ldc.4.sg: [0 ms]
+sqlite.4.sg
+sqlite.4.sg: [0 ms]
+tcc.4.sg
+tcc.4.sg: [0 ms]
+zlib.4.sg
+zlib.4.sg: [0 ms]
+DS.Eutron_SmartKey_dongle.5.sg
+findString[skeydrv.dll]: 00 008a9e00 [8 ms]
+findString[\\.\]: 00 008a9e00 [8 ms]
+DS.Eutron_SmartKey_dongle.5.sg: [17 ms]
+DS.HASP_dongle.5.sg
+findString[HASPDOSDRV]: 00 008a9e00 [8 ms]
+findString[HASPUT16.DLL]: 00 008a9e00 [10 ms]
+findString[haspvb32.dll]: 00 008a9e00 [96 ms]
+DS.HASP_dongle.5.sg: [115 ms]
+DS.Hardlock_dongle.5.sg
+findString[\\.\]: 00 008a9e00 [9 ms]
+DS.Hardlock_dongle.5.sg: [9 ms]
+LCL.5.sg
+LCL.5.sg: [0 ms]
+DS.MARX_Crypto-Box_dongle.5.sg
+findString[MARXDEV1.SYS]: 00 008a9e00 [10 ms]
+findString[\\.\]: 00 008a9e00 [9 ms]
+DS.MARX_Crypto-Box_dongle.5.sg: [19 ms]
+DS.Matrix_Hardware_Lock_dongle.5.sg
+findString[MxLPT_Sem]: 00 008a9e00 [9 ms]
+findString[MxUSB_Sem]: 00 008a9e00 [99 ms]
+DS.Matrix_Hardware_Lock_dongle.5.sg: [108 ms]
+DS.NetHASP_dongle.5.sg
+findString[NETHASP_00112233445566zz]: 00 008a9e00 [9 ms]
+findString[nethasp.ini]: 00 008a9e00 [98 ms]
+DS.NetHASP_dongle.5.sg: [107 ms]
+DS.SenseLock_dongle.5.sg
+findString[sense4.dll]: 00 008a9e00 [9 ms]
+findString[S4Open]: 00 008a9e00 [9 ms]
+DS.SenseLock_dongle.5.sg: [18 ms]
+DS.Sentinel_SuperPro_dongle.5.sg
+findString[RNBOspro]: 00 008a9e00 [9 ms]
+DS.Sentinel_SuperPro_dongle.5.sg: [9 ms]
+DS.Sentinel_dongle.5.sg
+findString[SNTNLUSB]: 00 008a9e00 [10 ms]
+findString[\\.\]: 00 008a9e00 [9 ms]
+DS.Sentinel_dongle.5.sg: [20 ms]
+DS.SoftLok_dongle.5.sg
+find_signature[5c5c2e5c'MNXX']: 00 008a9e00 [9 ms]
+find_signature[5c5c2e5c'SoftLok']: 00 008a9e00 [94 ms]
+DS.SoftLok_dongle.5.sg: [103 ms]
+DS.Unikey_dongle.5.sg
+findString[SSIVDDP.DLL]: 00 008a9e00 [10 ms]
+find_signature[5C004400650076006900630065005C005300530049005000440044005000]: 00 008a9e00 [8 ms]
+findString[\\.\]: 00 008a9e00 [93 ms]
+DS.Unikey_dongle.5.sg: [112 ms]
+DS.WIBU_Key_dongle.5.sg
+findString[WIBUKEY]: 00 008a9e00 [8 ms]
+findString[WkWin32.dll]: 00 008a9e00 [9 ms]
+findString[WKWIN32.DLL]: 00 008a9e00 [93 ms]
+DS.WIBU_Key_dongle.5.sg: [112 ms]
+DS.Wizzkey_dongle.5.sg
+findString[\\.\WIZZKEYRL]: 00 008a9e00 [8 ms]
+DS.Wizzkey_dongle.5.sg: [9 ms]
+obfus_h.5.sg
+obfus_h.5.sg: [0 ms]
+obfusheader_h.5.sg
+isSignaturePresent[00 'Stop reversing the ' ** ** ** **]: 00 008a9e00 [93 ms]
+obfusheader_h.5.sg: [93 ms]
+7z.6.sg
+7z.6.sg: [0 ms]
+ACE.6.sg
+ACE.6.sg: [0 ms]
+Cab.6.sg
+Cab.6.sg: [4 ms]
+Microsoft.6.sg
+isSignatureInSectionPresent['CMFCComObject']: 2  [0 ms]
+Microsoft.6.sg: [3 ms]
+VisualStudio_NET.6.sg
+VisualStudio_NET.6.sg: [0 ms]
+arj.6.sg
+arj.6.sg: [0 ms]
+de4dot.6.sg
+de4dot.6.sg: [0 ms]
+Windows_Authenticode.7.sg
+Windows_Authenticode.7.sg: [0 ms]
+__GenericHeuristicAnalysis_By_DosX.7.sg
+find_signature['This program cannot be run in DOS mode.']: 40 0130 [0 ms]
+find_signature['T'00'V'00'o'00'A'00'A'00'A'00'A'00'A'00'A']: 0170 008a9c90 [8 ms]
+find_signature['TVoAAAAAA']: 0170 008a9c90 [95 ms]
+find_signature['T'00'V'00'q'00'Q'00'A'00'A']: 0170 008a9c90 [9 ms]
+find_signature['TVqQAA']: 0170 008a9c90 [8 ms]
+find_signature['T'00'V'00'p'00'Q'00'A'00'A']: 0170 008a9c90 [8 ms]
+find_signature['TVpQAA']: 0170 008a9c90 [8 ms]
+find_signature['T'00'V'00'p'00'4'00'A'00'A']: 0170 008a9c90 [8 ms]
+find_signature['TVp4AA']: 0170 008a9c90 [8 ms]
+isSignaturePresent['nter serial ']: 00 008a9e00 [8 ms]
+isSignaturePresent[''n'00't'00'e'00'r'00' '00's'00'e'00'r'00'i'00'a'00'l'00' '']: 00 008a9e00 [9 ms]
+isSignaturePresent['erial key ']: 00 008a9e00 [8 ms]
+isSignaturePresent[''e'00'r'00'i'00'a'00'l'00' '00'k'00'e'00'y'00' '']: 00 008a9e00 [92 ms]
+isSignaturePresent[' activate ']: 00 008a9e00 [8 ms]
+isSignaturePresent['' '00'a'00'c'00't'00'i'00'v'00'a'00't'00'e'00' '']: 00 008a9e00 [8 ms]
+isSignaturePresent[' trial ']: 00 008a9e00 [8 ms]
+isSignaturePresent['' '00't'00'r'00'i'00'a'00'l'00' '']: 00 008a9e00 [9 ms]
+isSignaturePresent['rong activation']: 00 008a9e00 [91 ms]
+isSignaturePresent[''r'00'o'00'n'00'g'00' '00'a'00'c'00't'00'i'00'v'00'a'00't'00'i'00'o'00'n'']: 00 008a9e00 [8 ms]
+isSignaturePresent['rong licens']: 00 008a9e00 [8 ms]
+isSignaturePresent[''r'00'o'00'n'00'g'00' '00'l'00'i'00'c'00'e'00'n'00's'']: 00 008a9e00 [8 ms]
+isSignaturePresent['icense expire']: 00 008a9e00 [9 ms]
+isSignaturePresent[''i'00'c'00'e'00'n'00's'00'e'00' '00'e'00'x'00'p'00'i'00'r'00'e'']: 00 008a9e00 [91 ms]
+isSignaturePresent['valid license']: 00 008a9e00 [8 ms]
+isSignaturePresent[''v'00'a'00'l'00'i'00'd'00' '00'l'00'i'00'c'00'e'00'n'00's'00'e'']: 00 008a9e00 [8 ms]
+isSignaturePresent['icense key']: 00 008a9e00 [8 ms]
+isSignaturePresent[''i'00'c'00'e'00'n'00's'00'e'00' '00'k'00'e'00'y'']: 00 008a9e00 [9 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.cpp' 00 00]: 00 008a9e00 [89 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.rs' 00 00]: 00 008a9e00 [7 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.class' 00 00]: 00 008a9e00 [8 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.js' 00 00]: 00 008a9e00 [8 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.pyd' 00 00]: 00 008a9e00 [8 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.pb' 00 00]: 00 008a9e00 [92 ms]
+__GenericHeuristicAnalysis_By_DosX.7.sg: [925 ms]
+_FixDetects.9.sg
+_FixDetects.9.sg: [0 ms]
+DS.EZ-Logic.sg
+DS.EZ-Logic.sg: [0 ms]
+hXOR_packer.sg
+hXOR_packer.sg: [0 ms]
+linker.6.sg
+linker.6.sg: [3 ms]
+rar.6.sg
+rar.6.sg: [0 ms]
+sql-server.sg
+sql-server.sg: [0 ms]
+wxWidgets.5.sg
+wxWidgets.5.sg: [0 ms]
+UPX-Patcher.6.sg
+UPX-Patcher.6.sg: [0 ms]
+zip.6.sg
+find_signature['PK'0506]: 008a8df5 1000 [0 ms]
+zip.6.sg: [0 ms]
+example.sg
+example.sg: [0 ms]
+_init
+_init: [0 ms]
+archive.7z.1.sg
+archive.7z.1.sg: [0 ms]
+audio.8svx.1.sg
+audio.8svx.1.sg: [0 ms]
+bin.AAALogo.1.sg
+bin.AAALogo.1.sg: [0 ms]
+archive.ACE.1.sg
+archive.ACE.1.sg: [0 ms]
+audio.ACM.1.sg
+audio.ACM.1.sg: [0 ms]
+font.ADOBE.1.sg
+font.ADOBE.1.sg: [0 ms]
+image.ANI.1.sg
+image.ANI.1.sg: [0 ms]
+archive.AR.1.sg
+archive.AR.1.sg: [0 ms]
+archive.ARC.1.sg
+archive.ARC.1.sg: [0 ms]
+archive.ARJ.1.sg
+archive.ARJ.1.sg: [0 ms]
+audio.AU.1.sg
+audio.AU.1.sg: [0 ms]
+Amiga_loadable.1.sg
+Amiga_loadable.1.sg: [0 ms]
+bin.Atari_ST.1.sg
+bin.Atari_ST.1.sg: [0 ms]
+font.BMF.1.sg
+font.BMF.1.sg: [0 ms]
+image.BMP.1.sg
+image.BMP.1.sg: [0 ms]
+archive.BZip.1.sg
+archive.BZip.1.sg: [0 ms]
+archive.CFL3.1.sg
+archive.CFL3.1.sg: [0 ms]
+doc.CHM.1.sg
+doc.CHM.1.sg: [0 ms]
+image.CUR.1.sg
+image.CUR.1.sg: [0 ms]
+archive.Cab.1.sg
+archive.Cab.1.sg: [0 ms]
+image.DDS.1.sg
+image.DDS.1.sg: [0 ms]
+archive.DEFLATE.1.sg
+archive.DEFLATE.1.sg: [4 ms]
+doc.DJVU.1.sg
+doc.DJVU.1.sg: [1 ms]
+audio.DSS.1.sg
+audio.DSS.1.sg: [1 ms]
+cad.DWG.1.sg
+cad.DWG.1.sg: [0 ms]
+image.EPS.1.sg
+image.EPS.1.sg: [0 ms]
+Empty.1.sg
+Empty.1.sg: [0 ms]
+Video.FLV.1.sg
+Video.FLV.1.sg: [0 ms]
+audio.FSB.1.sg
+audio.FSB.1.sg: [0 ms]
+image.GIF.1.sg
+image.GIF.1.sg: [1 ms]
+bin.GameMaps.1.sg
+bin.GameMaps.1.sg: [0 ms]
+bin.GuitarPro.1.sg
+bin.GuitarPro.1.sg: [0 ms]
+doc.HLP.1.sg
+doc.HLP.1.sg: [0 ms]
+text.HTML.1.sg
+text.HTML.1.sg: [0 ms]
+bin.Hermes.1.sg
+bin.Hermes.1.sg: [0 ms]
+image.ICO.1.sg
+image.ICO.1.sg: [0 ms]
+bin.IDA.1.sg
+bin.IDA.1.sg: [0 ms]
+bin.ISO_9660.1.sg
+bin.ISO_9660.1.sg: [0 ms]
+bin.JMDL.1.sg
+bin.JMDL.1.sg: [0 ms]
+image.JNG.1.sg
+image.JNG.1.sg: [0 ms]
+image.JPEG.1.sg
+image.JPEG.1.sg: [0 ms]
+image.JPEGXL.1.sg
+image.JPEGXL.1.sg: [0 ms]
+bin.JSC.1.sg
+bin.JSC.1.sg: [0 ms]
+bin.Java.1.sg
+bin.Java.1.sg: [0 ms]
+image.KTX.1.sg
+image.KTX.1.sg: [0 ms]
+bin.KeePass.1.sg
+bin.KeePass.1.sg: [0 ms]
+image.LBM.1.sg
+image.LBM.1.sg: [0 ms]
+archive.LRZ.1.sg
+archive.LRZ.1.sg: [0 ms]
+bin.LUA.1.sg
+bin.LUA.1.sg: [0 ms]
+archive.LZ4.1.sg
+archive.LZ4.1.sg: [0 ms]
+archive.LZOP.1.sg
+archive.LZOP.1.sg: [0 ms]
+image.MNG.1.sg
+image.MNG.1.sg: [0 ms]
+video.MP4.1.sg
+video.MP4.1.sg: [0 ms]
+format.MS-DBG.1.sg
+format.MS-DBG.1.sg: [0 ms]
+format.MS-VHD.1.sg
+format.MS-VHD.1.sg: [0 ms]
+format.MS-WIM.1.sg
+format.MS-WIM.1.sg: [0 ms]
+format.MS-XNA.1.sg
+format.MS-XNA.1.sg: [0 ms]
+archive.MS_Compound.1.sg
+archive.MS_Compound.1.sg: [0 ms]
+bin.NVA.1.sg
+bin.NVA.1.sg: [0 ms]
+image.PCX.1.sg
+image.PCX.1.sg: [0 ms]
+bin.PDB.1.sg
+bin.PDB.1.sg: [0 ms]
+doc.PDF.1.sg
+doc.PDF.1.sg: [0 ms]
+archive.PEA.1.sg
+archive.PEA.1.sg: [0 ms]
+bin.PEFF.1.sg
+bin.PEFF.1.sg: [0 ms]
+image.PNG.1.sg
+image.PNG.1.sg: [0 ms]
+image.PSD.1.sg
+image.PSD.1.sg: [0 ms]
+image.PVR.1.sg
+image.PVR.1.sg: [0 ms]
+bin.PalmFile.1.sg
+bin.PalmFile.1.sg: [1 ms]
+text.Pascal.1.sg
+text.Pascal.1.sg: [0 ms]
+bin.Python.1.sg
+bin.Python.1.sg: [0 ms]
+image.QOI.1.sg
+image.QOI.1.sg: [0 ms]
+archive.RAR.1.sg
+archive.RAR.1.sg: [0 ms]
+RIFF.1.sg
+RIFF.1.sg: [0 ms]
+doc.RTF.1.sg
+doc.RTF.1.sg: [0 ms]
+database.SQLite.1.sg
+database.SQLite.1.sg: [0 ms]
+bin.SWF.1.sg
+bin.SWF.1.sg: [0 ms]
+text.Shell.1.sg
+text.Shell.1.sg: [0 ms]
+image.TGA.1.sg
+image.TGA.1.sg: [1 ms]
+image.TIFF.1.sg
+image.TIFF.1.sg: [0 ms]
+U-Boot.1.sg
+U-Boot.1.sg: [0 ms]
+Img.UDIF.1.sg
+Img.UDIF.1.sg: [0 ms]
+format.UE.1.sg
+format.UE.1.sg: [0 ms]
+archive.Unity.1.sg
+archive.Unity.1.sg: [0 ms]
+Universal_Binary.1.sg
+Universal_Binary.1.sg: [0 ms]
+format.VDI.1.sg
+format.VDI.1.sg: [0 ms]
+img.VM.1.sg
+img.VM.1.sg: [0 ms]
+audio.VOC.1.sg
+audio.VOC.1.sg: [1 ms]
+bin.WAD.1.sg
+bin.WAD.1.sg: [0 ms]
+audio.WAV.1.sg
+audio.WAV.1.sg: [1 ms]
+cert.WinAuth.1.sg
+cert.WinAuth.1.sg: [0 ms]
+bin.WindowsIconCacheDB.1.sg
+bin.WindowsIconCacheDB.1.sg: [0 ms]
+image.XAR.1.sg
+image.XAR.1.sg: [0 ms]
+text.XML.1.sg
+text.XML.1.sg: [0 ms]
+bin.ZBMP.1.sg
+bin.ZBMP.1.sg: [0 ms]
+archive.ZIP.1.sg
+archive.ZIP.1.sg: [0 ms]
+archive.ZLIB.1.sg
+archive.ZLIB.1.sg: [0 ms]
+archive.ZPAQ.1.sg
+archive.ZPAQ.1.sg: [0 ms]
+archives.1.sg
+archives.1.sg: [1 ms]
+audio.1.sg
+find_signature['<aks:song xmlns:aks="http://www.julien-nevo.com/ArkosTrackerSong"]: 14 56 [0 ms]
+find_signature[1D80FF]: 64 ffffffffffffffff [0 ms]
+find_signature['VSS0'00]: 4a ffffffffffffffff [0 ms]
+find_signature[41FA.... ....FFD4 43FA.... 228841FA ....D1E8 FFD843FA]: 00 6a [0 ms]
+find_signature[0D0A1A]: 00 6a [0 ms]
+audio.1.sg: [76 ms]
+backup_images.1.sg
+backup_images.1.sg: [0 ms]
+archive.btoa.1.sg
+archive.btoa.1.sg: [0 ms]
+text.c.1.sg
+text.c.1.sg: [0 ms]
+databases.1.sg
+databases.1.sg: [1 ms]
+debugData.1.sg
+debugData.1.sg: [0 ms]
+donut.1.sg
+donut.1.sg: [0 ms]
+formats.1.sg
+formats.1.sg: [0 ms]
+graphics.1.sg
+graphics.1.sg: [0 ms]
+text.pdb.1.sg
+text.pdb.1.sg: [0 ms]
+shellcode.pe_to_shellcode.1.sg
+isSignaturePresent[4D5A4552E8000000005B4883EB09534881C3]: 00 6a [0 ms]
+isSignaturePresent[4D5A4552E8000000005883E8095005]: 00 6a [0 ms]
+isSignaturePresent[558BEC51518D45F85350E8AA0100005984C0750883C8FFE9A4000000    56578B7D08B84D5A00006639070F858C0000008B773C03F7813E50450000757F8D86A0    00000033DB391875046AFDEB71FF76345750E8FB00000083C40C84C075046AFCEB5C39    9E80000000742357FFB684000000FFB680000000FF75FCFF75F8E86F00000083C41484    C075046AFBEB318D86C0000000391874095750E82800000059598B4628B90020000003    C766854E167408536A0157FFD0EB07FFD0EB036AFE585F5E5BC9C204008B4424045657    8B7C24108B008B74380C85F674128B0E85C9740C6A006A0157FFD183C60475EE5FB001    5EC3538B5C241855568B7424185703F3EB3C03C350FF5424188BE885ED74408B7E1003    FBEB1F79050FB7C1EB058D430203C185C074295055FF54242085C0741F890783C7048B    0F85C975DB83C6148B460C85C075BD85F60F95C05F5E5D5BC332C0EBF78B4424045355    568B08034C241457EB478B410483F808723F8D68F8D1ED6A005B74320FB7545908668B    C266C1E80C6685C074216683F803752B8B44241881E2FF0F00002B44241C03D6035424    180102433BDD72CE0349048B3185F675B3B0015F5E5D5BC332C0EBF7565768029FE66A    E88B0100008BF05985F67431688DBDC13F56E87C0000008BF8595985FF741E68FF1F7C    C956E869000000595985C0740D8B4C240C894104B0018939EB0232C05F5EC353568B74    240C83CAFF8A1E84DB743B8A7C24105784FF750A8D43BF3C19770380C3206A085F8BCA    0FBEC3D1E933C28BD181F22083B8ED24010F44D1D0FB83EF0175E3468A1E84DB75CB5F    F7D25E8BC25BC351515355568B742418B84D5A00005766390675618B463C8B44307885    C074568B54301C33FF8B4C30188954241C8B5430208B443024894C241085C974388D1C    328D2C308B4C241C0FB745006A018D048103C6894424188B0303C650E84FFFFFFF5959    3B44242074164783C50283C3043B7C241072CE33C05F5E5D5B5959C38B4424148B0003    C6EBEF56578B7C240C83CAFF33F60FB7076685C0745B5355807C2418000FB7C8894C24    1475108D41BF6683F819770783C120894C2414668B5C24146A085D8BC233CAD1E88BD0    81F22083B8ED80E1010F44D066D1EB66895C241483ED0174068B4C2414EBD9460FB704    776685C075A95D5BF7D25F8BC25EC364A1300000005356578B780C83C7148B37EB288D    46F885C074258B581885DB741E8378300074126A00FF7030E85AFFFFFF59593B442410    740C8B363BF775D433C05F5E5BC38BC3EBF800000000000000]: 00 6a [0 ms]
+isSignaturePresent[4D5A4552E800000000594883E909488BC14805]: 00 6a [0 ms]
+isSignaturePresent[56488BF44883E4F04883EC20E805000000488BE65EC348895C240857    4883EC30488BF9488D4C2420E83702000084C0750883C8FFE9BD000000B84D5A000066    39070F85AA00000048635F3C4803DF813B504500000F8597000000488D8BB000000083    3900750AB8FDFFFFFFE9860000004C8B4330488BD7E86201000084C07507B8FCFFFFFF    EB6F83BB9000000000742A0F28442420488D4C2420488B93900000004C8BC7660F7F44    2420E89300000084C07507B8FBFFFFFFEB3C488D8BD00000008339007408488BD7E833    0000008B4328B9002000004803C766854B16740E4533C0488BCF418D5001FFD0EB09FF    D0EB05B8FEFFFFFF488B5C24404883C4305FC348895C2408574883EC208B01488BFA48    8B5C10184885DB741B4C8B0B4D85C974134533C0488BCF418D500141FFD14883C30875    E5488B5C2430B0014883C4205FC3488BC4488958084889681048897018488978204156    4883EC208BDA498BF04903D84C8BF1EB4A8BC84803CE41FF16488BE84885C074628B7B    104803FEEB2679050FB7D1EB07488D56024803D14885D27447488BCD41FF56084885C0    743B4889074883C708488B0F4885C975D24883C3148B430C85C075AF4885DB0F95C048    8B5C2430488B6C2438488B742440488B7C24484883C420415EC332C0EBE148895C2408    48897C2410448B09498BD84C03CA4C8BDA33FF458B114585D27459418379040872F141    8B51044C8BC74883EA0848D1EA7435430FB74C41080FB7C166C1E80C6685C074236683    F80A752681E1FF0F0000498BC34103CA482BC34903CB49FFC04801014C3BC272CB418B    41044C03C8EBA332C0EB02B001488B5C2408488B7C2410C348895C2408488974241057    4883EC20488BD9B9029FE66AE8FD010000488BF84885C07432BA8DBDC13F488BC8E893    000000488BF04885C0741DBAFF1F7CC9488BCFE87E0000004885C0740B48894308B001    488933EB0232C0488B5C2430488B7424384883C4205FC3448A09448ADA4C8BD14183C8    FFEB414584DB750C418D41BF3C1977044180C120BA08000000418BC8410FBEC14133C0    D1E9448BC14181F02083B8ED2401440F44C141D0F94883EA0175DB49FFC2458A0A4584    C975BA41F7D0418BC0C3488BC448895808488968104889701848897820415441564157    B84D5A0000448BFA4C8BC16639010F85870000004863413C8B8C088800000085C97478    498D040833FF8B68184885ED746A448B4820448B50244D03C8448B601C4D03D0410FB7    02458B194D03D883CAFF498D3484EB2741BE080000008BCA0FBEC333C2D1E98BD181F2    2083B8ED24010F44D1D0FB4983EE0175E249FFC3418A1B84DB75D2F7D2413BD7742D48    FFC74983C2024983C104483BFD72A833C0488B5C2420488B6C2428488B742430488B7C    2438415F415E415CC3428B04064903C0EBDC48895C240848897C2410440FB7094183C8    FF33FF8ADA448BD74C8BD9EB4684DB750F418D41BF6683F8197705664183C120BA0800    0000418BC8410FB7C14133C0D1E9448BC14181F02083B8ED2401440F44C16641D1E948    83EA0175DA49FFC2470FB70C53664585C975B4488B5C240841F7D0488B7C2410418BC0    C348895C240848896C24104889742418574883EC2065488B0425600000008BE9488B78    184883C720488B1F483BDF7430488D43F04885C07427488B70304885F6741E488B4860    4885C9740B33D2E834FFFFFF3BC57405488B1BEBD0488BC6EB0233C0488B5C2430488B    6C2438488B7424404883C4205FC300000000000000000000000000]: 00 6a [0 ms]
+shellcode.pe_to_shellcode.1.sg: [0 ms]
+text.python.1.sg
+text.python.1.sg: [0 ms]
+rom.1.sg
+rom.1.sg: [4 ms]
+srdi-monoxgas.1.sg
+find_signature[E800000000]: 00 6a [0 ms]
+srdi-monoxgas.1.sg: [0 ms]
+image.JPEG.camera.2.sg
+image.JPEG.camera.2.sg: [0 ms]
+audio.mp3.2.sg
+audio.mp3.2.sg: [0 ms]
+text.script.2.sg
+text.script.2.sg: [0 ms]
+image.JPEG.Tools.3.sg
+image.JPEG.Tools.3.sg: [0 ms]
+text.plaintext.3.sg
+text.plaintext.3.sg: [0 ms]
+image.JPEG.DQT.4.sg
+image.JPEG.DQT.4.sg: [0 ms]
+image.JPEG.comment.4.sg
+image.JPEG.comment.4.sg: [0 ms]
+overlays.6.sg
+overlays.6.sg: [0 ms]
+__MiniExtensionsHeuristic_By_DosX.7.sg
+__MiniExtensionsHeuristic_By_DosX.7.sg: [1 ms]
+__MiniJavaScriptHeuristic_By_DosX.7.sg
+__MiniJavaScriptHeuristic_By_DosX.7.sg: [0 ms]
+archive.ASAR.sg
+archive.ASAR.sg: [0 ms]
+archive.DotBundle.sg
+archive.DotBundle.sg: [0 ms]
+format.MS-PST.sg
+format.MS-PST.sg: [0 ms]
+format.MS-VHDX.sg
+format.MS-VHDX.sg: [0 ms]
+text.RegistryFile.sg
+text.RegistryFile.sg: [0 ms]
+archives.ancient.sg
+archives.ancient.sg: [4 ms]
+__GenericHeuristicAnalysis_By_DosX.7.sg
+find_signature['This program cannot be run in DOS mode.']: 40 0130 [0 ms]
+find_signature['T'00'V'00'o'00'A'00'A'00'A'00'A'00'A'00'A']: 0170 008a9c90 [8 ms]
+find_signature['TVoAAAAAA']: 0170 008a9c90 [8 ms]
+find_signature['T'00'V'00'q'00'Q'00'A'00'A']: 0170 008a9c90 [8 ms]
+find_signature['TVqQAA']: 0170 008a9c90 [8 ms]
+find_signature['T'00'V'00'p'00'Q'00'A'00'A']: 0170 008a9c90 [8 ms]
+find_signature['TVpQAA']: 0170 008a9c90 [8 ms]
+find_signature['T'00'V'00'p'00'4'00'A'00'A']: 0170 008a9c90 [8 ms]
+find_signature['TVp4AA']: 0170 008a9c90 [8 ms]
+isSignaturePresent['nter serial ']: 00 008a9e00 [8 ms]
+isSignaturePresent[''n'00't'00'e'00'r'00' '00's'00'e'00'r'00'i'00'a'00'l'00' '']: 00 008a9e00 [8 ms]
+isSignaturePresent['erial key ']: 00 008a9e00 [8 ms]
+isSignaturePresent[''e'00'r'00'i'00'a'00'l'00' '00'k'00'e'00'y'00' '']: 00 008a9e00 [8 ms]
+isSignaturePresent[' activate ']: 00 008a9e00 [8 ms]
+isSignaturePresent['' '00'a'00'c'00't'00'i'00'v'00'a'00't'00'e'00' '']: 00 008a9e00 [8 ms]
+isSignaturePresent[' trial ']: 00 008a9e00 [8 ms]
+isSignaturePresent['' '00't'00'r'00'i'00'a'00'l'00' '']: 00 008a9e00 [8 ms]
+isSignaturePresent['rong activation']: 00 008a9e00 [8 ms]
+isSignaturePresent[''r'00'o'00'n'00'g'00' '00'a'00'c'00't'00'i'00'v'00'a'00't'00'i'00'o'00'n'']: 00 008a9e00 [8 ms]
+isSignaturePresent['rong licens']: 00 008a9e00 [8 ms]
+isSignaturePresent[''r'00'o'00'n'00'g'00' '00'l'00'i'00'c'00'e'00'n'00's'']: 00 008a9e00 [9 ms]
+isSignaturePresent['icense expire']: 00 008a9e00 [8 ms]
+isSignaturePresent[''i'00'c'00'e'00'n'00's'00'e'00' '00'e'00'x'00'p'00'i'00'r'00'e'']: 00 008a9e00 [8 ms]
+isSignaturePresent['valid license']: 00 008a9e00 [8 ms]
+isSignaturePresent[''v'00'a'00'l'00'i'00'd'00' '00'l'00'i'00'c'00'e'00'n'00's'00'e'']: 00 008a9e00 [8 ms]
+isSignaturePresent['icense key']: 00 008a9e00 [8 ms]
+isSignaturePresent[''i'00'c'00'e'00'n'00's'00'e'00' '00'k'00'e'00'y'']: 00 008a9e00 [9 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.cpp' 00 00]: 00 008a9e00 [7 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.rs' 00 00]: 00 008a9e00 [7 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.class' 00 00]: 00 008a9e00 [8 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.js' 00 00]: 00 008a9e00 [8 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.pyd' 00 00]: 00 008a9e00 [8 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.pb' 00 00]: 00 008a9e00 [8 ms]
+__GenericHeuristicAnalysis_By_DosX.7.sg: [340 ms]
+__GenericHeuristicAnalysis_By_DosX.7.sg
+find_signature['This program cannot be run in DOS mode.']: 40 0130 [0 ms]
+find_signature['T'00'V'00'o'00'A'00'A'00'A'00'A'00'A'00'A']: 0170 008a9c90 [8 ms]
+find_signature['TVoAAAAAA']: 0170 008a9c90 [9 ms]
+find_signature['T'00'V'00'q'00'Q'00'A'00'A']: 0170 008a9c90 [8 ms]
+find_signature['TVqQAA']: 0170 008a9c90 [8 ms]
+find_signature['T'00'V'00'p'00'Q'00'A'00'A']: 0170 008a9c90 [8 ms]
+find_signature['TVpQAA']: 0170 008a9c90 [11 ms]
+find_signature['T'00'V'00'p'00'4'00'A'00'A']: 0170 008a9c90 [10 ms]
+find_signature['TVp4AA']: 0170 008a9c90 [10 ms]
+isSignaturePresent['nter serial ']: 00 008a9e00 [9 ms]
+isSignaturePresent[''n'00't'00'e'00'r'00' '00's'00'e'00'r'00'i'00'a'00'l'00' '']: 00 008a9e00 [173 ms]
+isSignaturePresent['erial key ']: 00 008a9e00 [171 ms]
+isSignaturePresent[''e'00'r'00'i'00'a'00'l'00' '00'k'00'e'00'y'00' '']: 00 008a9e00 [174 ms]
+isSignaturePresent[' activate ']: 00 008a9e00 [91 ms]
+isSignaturePresent['' '00'a'00'c'00't'00'i'00'v'00'a'00't'00'e'00' '']: 00 008a9e00 [173 ms]
+isSignaturePresent[' trial ']: 00 008a9e00 [90 ms]
+isSignaturePresent['' '00't'00'r'00'i'00'a'00'l'00' '']: 00 008a9e00 [171 ms]
+isSignaturePresent['rong activation']: 00 008a9e00 [90 ms]
+isSignaturePresent[''r'00'o'00'n'00'g'00' '00'a'00'c'00't'00'i'00'v'00'a'00't'00'i'00'o'00'n'']: 00 008a9e00 [170 ms]
+isSignaturePresent['rong licens']: 00 008a9e00 [173 ms]
+isSignaturePresent[''r'00'o'00'n'00'g'00' '00'l'00'i'00'c'00'e'00'n'00's'']: 00 008a9e00 [8 ms]
+isSignaturePresent['icense expire']: 00 008a9e00 [89 ms]
+isSignaturePresent[''i'00'c'00'e'00'n'00's'00'e'00' '00'e'00'x'00'p'00'i'00'r'00'e'']: 00 008a9e00 [94 ms]
+isSignaturePresent['valid license']: 00 008a9e00 [10 ms]
+isSignaturePresent[''v'00'a'00'l'00'i'00'd'00' '00'l'00'i'00'c'00'e'00'n'00's'00'e'']: 00 008a9e00 [92 ms]
+isSignaturePresent['icense key']: 00 008a9e00 [9 ms]
+isSignaturePresent[''i'00'c'00'e'00'n'00's'00'e'00' '00'k'00'e'00'y'']: 00 008a9e00 [93 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.cpp' 00 00]: 00 008a9e00 [89 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.rs' 00 00]: 00 008a9e00 [7 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.class' 00 00]: 00 008a9e00 [16 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.js' 00 00]: 00 008a9e00 [98 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.pyd' 00 00]: 00 008a9e00 [8 ms]
+isSignaturePresent[%% %% %% %% %% %% %% %% '.pb' 00 00]: 00 008a9e00 [8 ms]
+__GenericHeuristicAnalysis_By_DosX.7.sg: [2261 ms]

@@ -1,0 +1,558 @@
+{
+  "ssl": {
+    "subject": {
+      "CN": "fxpgunz.com"
+    },
+    "issuer": {
+      "C": "US",
+      "O": "Google Trust Services",
+      "CN": "WE1"
+    },
+    "subjectaltname": "DNS:fxpgunz.com, DNS:*.fxpgunz.com",
+    "infoAccess": {
+      "OCSP - URI": [
+        "http://o.pki.goog/s/we1/HIM"
+      ],
+      "CA Issuers - URI": [
+        "http://i.pki.goog/we1.crt"
+      ]
+    },
+    "ca": false,
+    "bits": 256,
+    "pubkey": {
+      "type": "Buffer",
+      "data": [
+        4,
+        240,
+        115,
+        169,
+        52,
+        221,
+        250,
+        52,
+        98,
+        222,
+        35,
+        201,
+        58,
+        235,
+        211,
+        104,
+        30,
+        89,
+        26,
+        154,
+        99,
+        95,
+        66,
+        221,
+        220,
+        124,
+        208,
+        131,
+        142,
+        226,
+        134,
+        27,
+        120,
+        211,
+        143,
+        67,
+        81,
+        223,
+        238,
+        121,
+        48,
+        84,
+        93,
+        36,
+        164,
+        160,
+        132,
+        24,
+        110,
+        21,
+        44,
+        201,
+        38,
+        231,
+        61,
+        51,
+        41,
+        53,
+        71,
+        53,
+        134,
+        12,
+        59,
+        145,
+        48
+      ]
+    },
+    "asn1Curve": "prime256v1",
+    "nistCurve": "P-256",
+    "valid_from": "Mar 25 19:38:48 2025 GMT",
+    "valid_to": "Jun 23 20:38:42 2025 GMT",
+    "fingerprint": "E1:41:6D:CC:57:7B:27:73:9C:8B:52:48:3D:35:36:B1:65:37:33:91",
+    "fingerprint256": "FA:CB:D7:4C:8B:61:32:1B:98:11:88:29:B0:D2:FD:6D:E6:57:5E:52:55:BC:58:E0:41:F8:D2:8A:3D:F1:9C:D8",
+    "fingerprint512": "4F:D8:1F:3E:85:4C:16:D5:98:8C:3C:37:4F:0D:F7:31:BE:BA:2F:5B:BD:8D:E5:DC:DD:53:EA:AA:48:83:FB:01:F4:CF:82:9E:2F:B0:D0:AC:71:B6:81:1F:89:E3:B0:34:DB:74:B2:A5:60:33:DA:54:7F:8F:45:A1:BB:78:E9:9C",
+    "ext_key_usage": [
+      "1.3.6.1.5.5.7.3.1"
+    ],
+    "serialNumber": "1C8373A130F1D8E70DB5F31E5FABA911"
+  },
+  "server-info": {
+    "loc": "",
+    "type": ""
+  },
+  "dns": {
+    "A": {
+      "address": "104.26.12.77",
+      "family": 4
+    },
+    "AAAA": [
+      "104.26.12.77",
+      "104.26.13.77",
+      "172.67.68.3"
+    ],
+    "MX": [
+      "2606:4700:20::681a:c4d",
+      "2606:4700:20::681a:d4d",
+      "2606:4700:20::ac43:4403"
+    ],
+    "TXT": [],
+    "NS": [
+      [
+        "mandrill_verify.ON0Vwfx6BCCJWVClZ8wEKg"
+      ],
+      [
+        "google-site-verification=2NxV-4BsQaqwZX5Jz-xuOYsbrqrBmLzUuClDfFtWZLo"
+      ]
+    ],
+    "CNAME": [
+      "matias.ns.cloudflare.com",
+      "shaz.ns.cloudflare.com"
+    ],
+    "SOA": [],
+    "SRV": {
+      "nsname": "matias.ns.cloudflare.com",
+      "hostmaster": "dns.cloudflare.com",
+      "serial": 2368420849,
+      "refresh": 10000,
+      "retry": 2400,
+      "expire": 604800,
+      "minttl": 1800
+    },
+    "PTR": []
+  },
+  "hosts": null,
+  "security-txt": {
+    "isPresent": false
+  },
+  "dnssec": {
+    "DNSKEY": {
+      "isFound": false,
+      "answer": null,
+      "response": {
+        "Status": 3,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "https://fxpgunz.com.",
+            "type": 48
+          }
+        ],
+        "Authority": [
+          {
+            "name": "com.",
+            "type": 6,
+            "TTL": 900,
+            "data": "a.gtld-servers.net. nstld.verisign-grs.com. 1743787163 1800 900 604800 900"
+          }
+        ],
+        "Comment": "Response from 192.26.92.30."
+      }
+    },
+    "DS": {
+      "isFound": false,
+      "answer": null,
+      "response": {
+        "Status": 3,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "https://fxpgunz.com.",
+            "type": 43
+          }
+        ],
+        "Authority": [
+          {
+            "name": "com.",
+            "type": 6,
+            "TTL": 900,
+            "data": "a.gtld-servers.net. nstld.verisign-grs.com. 1743787163 1800 900 604800 900"
+          }
+        ],
+        "Comment": "Response from 2001:503:39c1::30."
+      }
+    },
+    "RRSIG": {
+      "isFound": false,
+      "answer": null,
+      "response": {
+        "Status": 3,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "https://fxpgunz.com.",
+            "type": 46
+          }
+        ],
+        "Authority": [
+          {
+            "name": "com.",
+            "type": 6,
+            "TTL": 900,
+            "data": "a.gtld-servers.net. nstld.verisign-grs.com. 1743787148 1800 900 604800 900"
+          }
+        ],
+        "Comment": "Response from 192.31.80.30."
+      }
+    }
+  },
+  "ports": {
+    "openPorts": [
+      80,
+      443,
+      8080
+    ],
+    "failedPorts": [
+      20,
+      21,
+      22,
+      23,
+      25,
+      53,
+      67,
+      68,
+      69,
+      110,
+      119,
+      123,
+      143,
+      156,
+      161,
+      162,
+      179,
+      194,
+      389,
+      587,
+      993,
+      995,
+      3000,
+      3306,
+      3389,
+      5060,
+      5900,
+      8000,
+      8888
+    ]
+  },
+  "txt-records": {
+    "mandrill_verify.ON0Vwfx6BCCJWVClZ8wEKg": "",
+    "google-site-verification": "2NxV-4BsQaqwZX5Jz-xuOYsbrqrBmLzUuClDfFtWZLo"
+  },
+  "block-lists": {
+    "blocklists": [
+      {
+        "server": "AdGuard",
+        "serverIp": "176.103.130.130",
+        "isBlocked": false
+      },
+      {
+        "server": "AdGuard Family",
+        "serverIp": "176.103.130.132",
+        "isBlocked": false
+      },
+      {
+        "server": "CleanBrowsing Adult",
+        "serverIp": "185.228.168.10",
+        "isBlocked": false
+      },
+      {
+        "server": "CleanBrowsing Family",
+        "serverIp": "185.228.168.168",
+        "isBlocked": false
+      },
+      {
+        "server": "CleanBrowsing Security",
+        "serverIp": "185.228.168.9",
+        "isBlocked": false
+      },
+      {
+        "server": "CloudFlare",
+        "serverIp": "1.1.1.1",
+        "isBlocked": false
+      },
+      {
+        "server": "CloudFlare Family",
+        "serverIp": "1.1.1.3",
+        "isBlocked": false
+      },
+      {
+        "server": "Comodo Secure",
+        "serverIp": "8.26.56.26",
+        "isBlocked": false
+      },
+      {
+        "server": "Google DNS",
+        "serverIp": "8.8.8.8",
+        "isBlocked": false
+      },
+      {
+        "server": "Neustar Family",
+        "serverIp": "156.154.70.3",
+        "isBlocked": false
+      },
+      {
+        "server": "Neustar Protection",
+        "serverIp": "156.154.70.2",
+        "isBlocked": false
+      },
+      {
+        "server": "Norton Family",
+        "serverIp": "199.85.126.20",
+        "isBlocked": false
+      },
+      {
+        "server": "OpenDNS",
+        "serverIp": "208.67.222.222",
+        "isBlocked": false
+      },
+      {
+        "server": "OpenDNS Family",
+        "serverIp": "208.67.222.123",
+        "isBlocked": false
+      },
+      {
+        "server": "Quad9",
+        "serverIp": "9.9.9.9",
+        "isBlocked": false
+      },
+      {
+        "server": "Yandex Family",
+        "serverIp": "77.88.8.7",
+        "isBlocked": false
+      },
+      {
+        "server": "Yandex Safe",
+        "serverIp": "77.88.8.88",
+        "isBlocked": false
+      }
+    ]
+  },
+  "features": {
+    "first": 1634454000,
+    "last": 1742972400,
+    "domain": "fxpgunz.com",
+    "groups": [
+      {
+        "name": "javascript",
+        "live": 0,
+        "dead": 6,
+        "latest": 1648018800,
+        "oldest": 1635922800,
+        "categories": [
+          {
+            "live": 0,
+            "dead": 2,
+            "latest": 1648018800,
+            "oldest": 1635922800,
+            "name": "javascript-library"
+          },
+          {
+            "live": 0,
+            "dead": 1,
+            "latest": 1648018800,
+            "oldest": 1648018800,
+            "name": "framework"
+          }
+        ]
+      },
+      {
+        "name": "ns",
+        "live": 1,
+        "dead": 1,
+        "latest": 1739260800,
+        "oldest": 1635922800,
+        "categories": []
+      },
+      {
+        "name": "registrar",
+        "live": 0,
+        "dead": 1,
+        "latest": 1665990000,
+        "oldest": 1634454000,
+        "categories": []
+      },
+      {
+        "name": "mobile",
+        "live": 0,
+        "dead": 3,
+        "latest": 1709539200,
+        "oldest": 1648018800,
+        "categories": []
+      },
+      {
+        "name": "Web Server",
+        "live": 0,
+        "dead": 1,
+        "latest": 1690700400,
+        "oldest": 1648018800,
+        "categories": []
+      },
+      {
+        "name": "framework",
+        "live": 0,
+        "dead": 1,
+        "latest": 1709539200,
+        "oldest": 1648018800,
+        "categories": []
+      },
+      {
+        "name": "ssl",
+        "live": 1,
+        "dead": 2,
+        "latest": 1739606400,
+        "oldest": 1648018800,
+        "categories": []
+      },
+      {
+        "name": "widgets",
+        "live": 4,
+        "dead": 2,
+        "latest": 1742972400,
+        "oldest": 1672473600,
+        "categories": []
+      },
+      {
+        "name": "hosting",
+        "live": 3,
+        "dead": 0,
+        "latest": 1739606400,
+        "oldest": 1694329200,
+        "categories": [
+          {
+            "live": 2,
+            "dead": 0,
+            "latest": 1739606400,
+            "oldest": 1694329200,
+            "name": "us-hosting"
+          },
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1739260800,
+            "oldest": 1694329200,
+            "name": "cloud-hosting"
+          },
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1739260800,
+            "oldest": 1694329200,
+            "name": "cloud-paas"
+          }
+        ]
+      },
+      {
+        "name": "cdns",
+        "live": 1,
+        "dead": 0,
+        "latest": 1739606400,
+        "oldest": 1694329200,
+        "categories": []
+      },
+      {
+        "name": "cdn",
+        "live": 1,
+        "dead": 2,
+        "latest": 1739606400,
+        "oldest": 1694329200,
+        "categories": []
+      },
+      {
+        "name": "Server",
+        "live": 1,
+        "dead": 0,
+        "latest": 1739260800,
+        "oldest": 1694329200,
+        "categories": []
+      },
+      {
+        "name": "mx",
+        "live": 2,
+        "dead": 1,
+        "latest": 1739260800,
+        "oldest": 1694329200,
+        "categories": [
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1739260800,
+            "oldest": 1715670000,
+            "name": "dmarc"
+          }
+        ]
+      },
+      {
+        "name": "ads",
+        "live": 0,
+        "dead": 1,
+        "latest": 1716706800,
+        "oldest": 1714633200,
+        "categories": []
+      },
+      {
+        "name": "Web Master",
+        "live": 1,
+        "dead": 0,
+        "latest": 1739260800,
+        "oldest": 1728889200,
+        "categories": []
+      }
+    ]
+  },
+  "carbon": {
+    "statistics": {
+      "adjustedBytes": 1725.93,
+      "energy": 0.0000013019920326769353,
+      "co2": {
+        "grid": {
+          "grams": 0.0005754804784432054,
+          "litres": 0.0003200822421101108
+        },
+        "renewable": {
+          "grams": 0.0004989233469218017,
+          "litres": 0.000277501165557906
+        }
+      }
+    },
+    "cleanerThan": 1,
+    "rating": "A+",
+    "green": false,
+    "scanUrl": "https://fxpgunz.com"
+  }
+}
