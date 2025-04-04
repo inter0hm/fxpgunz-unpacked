@@ -1,0 +1,8 @@
+Name	Offset	Type	Value		
+Machine	0000	WORD	014c	I386	
+NumberOfSections	0002	WORD	0005		
+TimeDateStamp	0004	DWORD	64dff63c		
+PointerToSymbolTable	0008	DWORD	00000000		
+NumberOfSymbols	000c	DWORD	00000000		
+SizeOfOptionalHeader	0010	WORD	00e0		224 Bytes
+Characteristics	0012	WORD	0102	EXECUTABLE_IMAGE|32BIT_MACHINE	

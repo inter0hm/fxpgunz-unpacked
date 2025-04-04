@@ -1,0 +1,4 @@
+#	Characteristics	TimeDateStamp	MajorVersion	MinorVersion	Type	SizeOfData	AddressOfRawData	PointerToRawData
+0	00000000	64dff63c	0000	0000	00000002	0000006a	007ae2c8	007acec8
+1	00000000	64dff63c	0000	0000	0000000c	00000014	007ae334	007acf34
+2	00000000	64dff63c	0000	0000	0000000d	000003cc	007ae348	007acf48

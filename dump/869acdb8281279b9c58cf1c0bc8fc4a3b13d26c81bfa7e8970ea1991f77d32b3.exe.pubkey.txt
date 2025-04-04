@@ -1,0 +1,3 @@
+Offset	Address	Name
+007428c8		Zlib dist_code
+0080edac		GameGuard files encryption public key

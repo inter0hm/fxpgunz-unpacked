@@ -1,0 +1,25 @@
+#	Id	Version	Count	
+0	00f1	40116	47	Compiler: MASM(12.10.40116)
+1	00f3	40116	236	Compiler: Universal Tuple Compiler(18.10.40116)[C++]
+2	00f2	40116	41	Compiler: Universal Tuple Compiler(18.10.40116)[C]
+3	007b	50727	2	Library: Import(8.00.50727)
+4	0083	30729	3	Compiler: Universal Tuple Compiler(15.00.30729)[C]
+5	009c	21202	2	Library: Import(10.00.21202)
+6	00cf	65501	1	Compiler: Universal Tuple Compiler(17.00.65501)[C++]
+7	00c7	41118	6	Tool: ALIASOBJ(11.00.41118)
+8	0104	29118	22	Compiler: Universal Tuple Compiler(19.00.29118)[C]
+9	0103	29118	29	Compiler: MASM(14.00.29118)
+10	0105	29118	470	Compiler: Universal Tuple Compiler(19.00.29118)[C++]
+11	00ab	30319	2	Compiler: Universal Tuple Compiler(16.00.30319)[C++]
+12	00ce	65501	11	Compiler: Universal Tuple Compiler(17.00.65501)[C]
+13	00d0	65501	2	Compiler: Universal Tuple Compiler(17.00.65501)[CVTCIL/C]
+14	0104	23506	154	Compiler: Universal Tuple Compiler(19.00.23506)[C]
+15	00cb	65501	50	Library: Import(11.00.65501)
+16	000b	9782	12	Compiler: Universal Tuple Compiler(12.00.9782)[C++]
+17	0004	8447	3	Linker: Microsoft linker(6.00.8447)
+18	0001	0	1132	Library: Import
+19	005f	3077	9	Compiler: Universal Tuple Compiler(13.10.3077)[C]
+20	0105	29333	571	Compiler: Universal Tuple Compiler(19.00.29333)[C++]
+21	00ff	29333	1	Tool: CVTRES(14.00.29333)
+22	0097	0	1	Library: Resource(9.00.0)
+23	0102	29333	1	Linker: Microsoft linker(14.00.29333)

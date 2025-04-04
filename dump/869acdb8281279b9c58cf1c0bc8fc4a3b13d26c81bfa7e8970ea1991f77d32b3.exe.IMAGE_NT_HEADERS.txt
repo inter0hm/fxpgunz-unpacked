@@ -1,0 +1,2 @@
+Name	Offset	Type	Value		
+Signature	0000	DWORD	00004550	NT_SIGNATURE	

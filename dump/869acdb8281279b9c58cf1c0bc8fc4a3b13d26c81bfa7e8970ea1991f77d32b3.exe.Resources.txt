@@ -1,0 +1,11 @@
+#				Address	Offset	Size	
+0	RT_ICON(3)	1	1042	029fd7d8	008213d8	e4a8	Image: Format: PNG[256x256]
+1	RT_ICON(3)	2	1042	02a0bc80	0082f880	00010828	Format: Resource Icon
+2	RT_ICON(3)	3	1042	02a1c4a8	008400a8	4228	Format: Resource Icon
+3	RT_ICON(3)	4	1042	02a206d0	008442d0	25a8	Format: Resource Icon
+4	RT_ICON(3)	5	1042	02a22c78	00846878	10a8	Format: Resource Icon
+5	RT_ICON(3)	6	1042	02a23d20	00847920	0468	Format: Resource Icon
+6	RT_GROUP_ICON(14)	101	1042	02a24188	00847d88	5a	Image: Format: Windows Icon
+7	RT_VERSION(16)	1	1033	029fd240	00820e40	02b8	Format: Resource Version Info
+8	RT_VERSION(16)	1	1042	029fd4f8	008210f8	02e0	Format: Resource Version Info
+9	RT_MANIFEST(24)	1	1033	02a241e8	00847de8	0188	Plain Text: Source code: XML(1.0)
