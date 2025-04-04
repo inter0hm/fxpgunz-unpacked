@@ -1,4 +1,4 @@
-2025-04-04 21:03:50,015 [analyzer] DEBUG: Starting analyzer from: C:\tmpqqrt4a
+```2025-04-04 21:03:50,015 [analyzer] DEBUG: Starting analyzer from: C:\tmpqqrt4a
 2025-04-04 21:03:50,030 [analyzer] DEBUG: Pipe server name: \??\PIPE\DjFGeiqjNxnNKDGwGv
 2025-04-04 21:03:50,030 [analyzer] DEBUG: Log pipe server name: \??\PIPE\iiiyvqZEgvMFRnmOpjsEY
 2025-04-04 21:03:50,342 [analyzer] DEBUG: Started auxiliary module Curtain
@@ -261,3 +261,42 @@
 2025-04-04 21:10:02,196 [cuckoo.core.resultserver] DEBUG: Stopped tracking machine 192.168.168.228 for task #6228047
 2025-04-04 21:10:05,292 [cuckoo.core.scheduler] DEBUG: Released database task #6228047
 2025-04-04 21:10:05,333 [cuckoo.core.scheduler] INFO: Task #6228047: analysis procedure completed
+ Allocates read-write-execute memory (usually to unpack itself) (50 out of 754 events)
+ Creates executable files on the filesystem (11 events)
+file	C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\JG9ERFXB\index.386f528b[1].js
+file	C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\9CV5X2VQ\core[1].js
+file	C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\FVVK07HD\moment[1].js
+file	C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\4DE37VMD\index.063b2d6d[1].js
+file	C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\9CV5X2VQ\index.c63d8bb4[1].js
+file	C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\FVVK07HD\axios[1].js
+file	C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\4DE37VMD\runtime[1].js
+file	C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\4DE37VMD\babel[1].js
+file	C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\JG9ERFXB\main[1].js
+file	C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\FVVK07HD\anime[1].js
+file	C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\9CV5X2VQ\index.0d3f64b3[1].js
+ Changes read-write memory protection to read-execute (probably to avoid detection when setting all RWX flags at the same time) (1 event)
+Time & API	Arguments	Status	Return	Repeated
+NtProtectVirtualMemory
+
+April 4, 2025, 10:03 p.m. 	process_identifier: 1432
+stack_dep_bypass: 0
+stack_pivoted: 0
+heap_dep_bypass: 1
+length: 4096
+protection: 16 (PAGE_EXECUTE)
+base_address: 0x04df0000
+process_handle: 0xffffffff
+1	0	0
+ Uses Windows utilities for basic Windows functionality (1 event)
+cmdline	"C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE" SCODEF:2140 CREDAT:275457 /prefetch:2
+ A potential heapspray has been detected. 57 megabytes was sprayed onto the heap of the iexplore.exe process (1 event)
+count	14663	name	heapspray	process	iexplore.exe	total_mb	57	length	4096	protection	PAGE_READWRITE
+ Resumed a suspended thread in a remote process potentially indicative of process injection (2 events)
+Process injection	Process 2140 resumed a thread in remote process 1432
+Time & API	Arguments	Status	Return	Repeated
+NtResumeThread
+
+April 4, 2025, 10:03 p.m. 	thread_handle: 0x0000000000000344
+suspend_count: 1
+process_identifier: 1432
+```
