@@ -1,0 +1,14 @@
+		00000000	00001000	00000000	00000400		Header
+0	.text	00001000	006ee6dc	00000400	006ee800	RE	(Compiler) Code Section
+    	Entry point	005d2ff3	00000000	005d23f3	00000000		
+1	.rdata	006f0000	00112b12	006eec00	00112c00	R	(Compiler) Read-only initialized Data Section  (MS and Borland)
+    	IAT	006f0000	00000da0	006eec00	00000da0		
+    	Debug	00793ba4	00000054	007927a4	00000054		
+    	Load config	00793bf8	00000040	007927f8	00000040		
+    	TLS	00793cc0	00000018	007928c0	00000018		
+    	Import	007fde64	000001f4	007fca64	000001f4		
+2	.data	00803000	01df9cb4	00801800	0001f400	RW	(Compiler) Data Section
+3	.rsrc	025fd000	00027370	00820c00	00027400	R	(Compiler) Resource section
+    	Resources	025fd000	00027370	00820c00	00027370		
+4	.reloc	02625000	00061c8c	00848000	00061e00	R	(Compiler) Relocations Section
+    	Relocs	02625000	00061c8c	00848000	00061c8c		

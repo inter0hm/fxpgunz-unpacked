@@ -1,0 +1,7 @@
+Offset	Address	Name
+007428c8	00b43cc8	Zlib dist_code
+00742c40	00b44040	Zlib base_dist
+0080b460	00c0cc60	seed_SS2
+0080f608	00c10e08	seed_SS2
+0080b860	00c0d060	seed_SS3
+0080fa08	00c11208	seed_SS3
