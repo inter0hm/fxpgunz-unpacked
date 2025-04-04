@@ -1,4 +1,4 @@
-Win.Trojan.Nmzbaak8fvob-10038731-0
+```Win.Trojan.Nmzbaak8fvob-10038731-0
 Win.Virus.Expiro-9951932-0
 Win.Trojan.Cosmu-206
 github.com
@@ -208,3 +208,4 @@ INDICATOR_SUSPICIOUS_EXE_RegKeyComb_DisableWinDefender
 win_samsam_auto
 Powered by OpenAnalysis Inc
 unpacme@openanalysis.net
+```
