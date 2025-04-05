@@ -1,12 +1,13 @@
-![](https://media.discordapp.net/attachments/1327679797610025051/1357579711307448461/image.png?ex=67f209a1&is=67f0b821&hm=30383a357d14c5f6164f510538feb42baf2f062477f5e1ba9c9f5f5f85eb6f27&=&format=png)
+![](https://raw.githubusercontent.com/inter0hm/fxpgunz-unpacked/refs/heads/main/images/image%20(4).webp)
+
 #More information's regarding the creation of this repo: https://pastebin.com/raw/Q94UpcYM
 #Metamorphism
 ![](https://media.discordapp.net/attachments/1327669340337606718/1356917918251880468/image.png?ex=67f19b8a&is=67f04a0a&hm=ed06b379c786120918b84098bac622066b88d5f1bb43b490e82777f7318815a9&=&format=png)
-![](https://raw.githubusercontent.com/inter0hm/fxpgunz-unpacked/refs/heads/main/images/image%20(4).webp)
+
 #FXPGUNZ.COM.
 > https://privatebin.net/?c12b6b071f9f1331#79xXkkXWuaGrRsHfX6nEwu4V3ZHrt7rDoYskuXZKPFYY
 > https://pastebin.com/raw/mCSYtEf9
-
+![](https://media.discordapp.net/attachments/1327679797610025051/1357579711307448461/image.png?ex=67f209a1&is=67f0b821&hm=30383a357d14c5f6164f510538feb42baf2f062477f5e1ba9c9f5f5f85eb6f27&=&format=png)
 https://cryptpad.fr/code/#/2/code/edit/lSDw0zraux1vyMRDIR2v4Tqn/
 - INTELLIGENCE DATA REGARDING FXPGUNZ METAMORPHIC MALWARE / Abuse OF exploitable softwares/libraries
 - if you contribute , please be patient as I counter verify 
