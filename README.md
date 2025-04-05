@@ -6,27 +6,26 @@
 > FXPGUNZ.COM.
 
 ![](https://media.discordapp.net/attachments/1327679797610025051/1357579711307448461/image.png?ex=67f209a1&is=67f0b821&hm=30383a357d14c5f6164f510538feb42baf2f062477f5e1ba9c9f5f5f85eb6f27&=&format=png)
-![](https://media.discordapp.net/attachments/1327679797610025051/1357579711307448461/image.png?ex=67f209a1&is=67f0b821&hm=30383a357d14c5f6164f510538feb42baf2f062477f5e1ba9c9f5f5f85eb6f27&=&format=png)
-![](https://media.discordapp.net/attachments/1327669340337606718/1356917918251880468/image.png?ex=67f19b8a&is=67f04a0a&hm=ed06b379c786120918b84098bac622066b88d5f1bb43b490e82777f7318815a9&=&format=png)
 >(Image + Link)：
-
-
-[![](https://user-images.githubusercontent.com/31367960/95095231-6b0d3700-0748-11eb-8308-2b2401610736.png)](https://github.com/arkumish "Click to open Project owner profile")
-
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 #More information's regarding the creation of this repo:
- https://pastebin.com/raw/Q94UpcYM
- https://privatebin.net/?c12b6b071f9f1331#79xXkkXWuaGrRsHfX6nEwu4V3ZHrt7rDoYskuXZKPFYY
- https://pastebin.com/raw/mCSYtEf9
+> https://pastebin.com/raw/Q94UpcYM
+> https://privatebin.net/?c12b6b071f9f1331#79xXkkXWuaGrRsHfX6nEwu4V3ZHrt7rDoYskuXZKPFYY
+> https://pastebin.com/raw/mCSYtEf9
 
 https://cryptpad.fr/code/#/2/code/edit/lSDw0zraux1vyMRDIR2v4Tqn/
 INTELLIGENCE DATA REGARDING FXPGUNZ METAMORPHIC MALWARE / Abuse OF exploitable softwares/libraries
 #if you contribute , please be patient as I counter verify 
-### this repo will be used to host unpacked executable of fxp gunz malware , will contain information's regarding the registery read/write, deletions , deprecated softwares like .net 4.x left on purpose on the launcher using old ie.
+##this repo will be used to host unpacked executable of fxp gunz malware , will contain information's regarding the registery read/write, deletions , deprecated softwares like .net 4.x left on purpose on the launcher using old ie.
 #The executable uses selfpolymorphism and metamorphism technique that uses system and features in an original softwares without changing it initial behavior.
     i removed vmprotect from various executable for investigation , i started noticing changes my finds removed after public disclosure , comparing the changes would be interesting
     The unpacked client are inside the archive like this 1D905A0814A9E397.zip and other similar looking .zip archive. I will eventually organize it and clean it. 
 
-Archive password : infected
+Archive password :> infected
 Main domain: fxpgunz.com
 old host provider before migration toward NL datacenter which i'm the one that recommended it after helping him dealing with a scam situation he did fall for.
 sharp did google for "ddos protected host" clicked a random one. He had several issue setting the server up considering he barely know stuff about system administration and only what he was taught to write/program at idf, can buy or get his hands on from his friends he wasn't able to get the required information's from events viewer, netstat.
@@ -35,11 +34,11 @@ i made him move to good provider which i regret but this is not a problem since 
 
 
 You killed your own domain reputation with the fake sql table and greatly reduced visibility of the darknet one that occured few days afters
-https://www.unpac.me/results/155511f4-60ef-4640-8487-561a93a79f05
+> https://www.unpac.me/results/155511f4-60ef-4640-8487-561a93a79f05
 for crowdsourced collab do not mix launcher ioc with gunz.exe one. https://www.virustotal.com/gui/collection/de71546cf3df1fac8b0ee2fe4b3fc7e5a2f1906c33f73f55bd52c292c21ffb7b/community
 hybrid analysis collections of older unpacked exe sent to me while i was dev @ fxp but never had access to the source or server.
-https://hybrid-analysis.com/file-collection/65c5615a63ecc83d55034d63
-https://hybrid-analysis.com/file-collection/65c5613b4e7008f4fe06e0f3
+> https://hybrid-analysis.com/file-collection/65c5615a63ecc83d55034d63
+> https://hybrid-analysis.com/file-collection/65c5613b4e7008f4fe06e0f3
 
 Deprecared version of dotnet that open door to multiple RCE and exploits
 outdated zlib vulnerable to toctou 
