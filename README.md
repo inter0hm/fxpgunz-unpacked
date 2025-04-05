@@ -1,10 +1,11 @@
+Metamorphism : 
+
 INTELLIGENCE DATA REGARDING FXPGUNZ METAMORPHIC MALWARE / Abuse OF exploitable softwares/libraries
 #if you contribute , please be patient as I counter verify 
 ### this repo will be used to host unpacked executable of fxp gunz malware , will contain information's regarding the registery read/write, deletions , deprecated softwares like .net 4.x left on purpose on the launcher using old ie.
 #The executable uses selfpolymorphism and metamorphism technique that uses system and features in an original softwares without changing it initial behavior.
     i removed vmprotect from various executable for investigation , i started noticing changes my finds removed after public disclosure , comparing the changes would be interesting
-
-Metamorphism : 
+    The unpacked client are inside the archive like this 1D905A0814A9E397.zip and other similar looking .zip archive. I will eventually organize it and clean it. 
 
 Archive password : infected
 Main domain: fxpgunz.com
