@@ -1,3 +1,23 @@
+# Images
+
+Image:
+
+![](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+
+> FXPGUNZ.COM.
+
+![](https://images.unsplash.com/photo-1502759683299-cdcd6974244f?auto=format&fit=crop&w=440&h=220&q=60)
+
+>(Image + Link)：
+
+
+[![](https://user-images.githubusercontent.com/31367960/95095231-6b0d3700-0748-11eb-8308-2b2401610736.png)](https://github.com/arkumish "Click to open Project owner profile")
+
+#More information's regarding the creation of this repo:
+ https://pastebin.com/raw/Q94UpcYM
+ https://privatebin.net/?c12b6b071f9f1331#79xXkkXWuaGrRsHfX6nEwu4V3ZHrt7rDoYskuXZKPFYY
+ https://pastebin.com/raw/mCSYtEf9
+
 https://cryptpad.fr/code/#/2/code/edit/lSDw0zraux1vyMRDIR2v4Tqn/
 INTELLIGENCE DATA REGARDING FXPGUNZ METAMORPHIC MALWARE / Abuse OF exploitable softwares/libraries
 #if you contribute , please be patient as I counter verify 
@@ -13,6 +33,8 @@ sharp did google for "ddos protected host" clicked a random one. He had several 
 the first thing i did was try to ensure the routing was properly done and from the arp -a command i notice hes been arp spoofed and still didn't know how to proceed , panicking. He could have done few research about the provider and a virustotal scan he would have quickly noticed lots of detections and redflag coming from  search engine result.
 i made him move to good provider which i regret but this is not a problem since his favicon resolve his back end and that he ran his server on a windows server without reducing the attack surface, sysloging , no siem .
 
+
+You killed your own domain reputation with the fake sql table and greatly reduced visibility of the darknet one that occured few days afters
 https://www.unpac.me/results/155511f4-60ef-4640-8487-561a93a79f05
 for crowdsourced collab do not mix launcher ioc with gunz.exe one. https://www.virustotal.com/gui/collection/de71546cf3df1fac8b0ee2fe4b3fc7e5a2f1906c33f73f55bd52c292c21ffb7b/community
 hybrid analysis collections of older unpacked exe sent to me while i was dev @ fxp but never had access to the source or server.
